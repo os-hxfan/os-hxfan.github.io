@@ -386,6 +386,13 @@ footer {
         font-size: 2.25em;
         margin-bottom: 15px;
     }
+
+    h3 {
+        color: lighten($black-color, 5%);
+        font-weight: 400;
+        font-size: 1.5em;
+        margin-bottom: 15px;
+    }
 }
 
 #lead-overlay {
