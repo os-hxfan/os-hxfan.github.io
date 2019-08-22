@@ -34,8 +34,11 @@
 */
 
 // Define base and accent colors
-$base-color: #3498db;
-$base-color-hover: darken($base-color, 10%);
+$base-color: #0e81d3;
+$menu-color: #cbd2d8;
+$black-color: #000203;
+$base-color-hover: darken($menu-color, 10%);
+
 
 // Define background colors
 $background: #fff;
@@ -268,7 +271,7 @@ footer {
 }
 
 .social {
-    text-align: right;
+    text-align: center;
 
     ul {
         margin: 5px 0 0 0;
@@ -378,7 +381,7 @@ footer {
     }
 
     h2 {
-        color: lighten($base-color, 25%);
+        color: lighten($black-color, 5%);
         font-weight: 500;
         font-size: 2.25em;
         margin-bottom: 15px;
@@ -393,7 +396,7 @@ footer {
     right: 0;
     bottom: 0;
     left: 0;
-    background: rgba($base-color-hover, 0.8);
+    background: rgba($base-color-hover, 0.55);
     z-index: 1;
 }
 
@@ -457,7 +460,15 @@ footer {
         color: $text;
         margin: 0;
     }
+
+    img {
+        float: center;
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+    }
 }
+
 
 /*
     --------------------------------

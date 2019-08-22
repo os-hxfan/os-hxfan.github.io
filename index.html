@@ -31,13 +31,13 @@
                 <a href="#education">Education</a>
             </li>
             <li>
-                <a href="#experience">Experience</a>
-            </li>
-            <li>
-                <a href="#projects">Projects</a>
-            </li>
-            <li>
                 <a href="#skills">Skills</a>
+            </li>
+            <li>
+                <a href="#projects">Publications</a>
+            </li>
+            <li>
+                <a href="#experience">Experience</a>
             </li>
         </ul>
     </header>
@@ -66,8 +66,29 @@
     <div id="about">
         <div class="container">
             <div class="row">
-                <div class="col-md-4">
-                    <h2 class="heading">About Me</h2>
+                <div class="col-md-4 social">
+                    <h2 class="heading">About Me</h2> <br>
+                    <img src="images/hxfan.JPG"/>
+                    <ul>
+                            <li>
+                                <a href="https://github.com/" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
+                            </li>
+                            <li>
+                                <a href="https://stackoverflow.com/" target="_blank"><i class="fa fa-stack-overflow" aria-hidden="true"></i></a>
+                            </li>
+                            <li>
+                                <a href="https://linkedin.com/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+                            </li>
+                            <li>
+                                <a href="https://www.facebook.com/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                            </li>
+                            <li>
+                                <a href="https://twitter.com/" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                            </li>
+                            <li>
+                                <a href="https://plus.google.com/" target="_blank"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
+                            </li>
+                    </ul>                   
                 </div>
                 <div class="col-md-8">
                     <p>
@@ -79,7 +100,122 @@
     </div>
     <!-- End #about -->
 
-    <div id="experience" class="background-alt">
+    <div id="education" class="background-alt">
+            <h2 class="heading">Education</h2>
+            <div class="education-block">
+                <h3>Imperial College London</h3>
+                <span class="education-date">October 2018 – Present</span>
+                <h4>Doctor of Philosophy (Ph.D.) in Advanced Computing</h4>
+                <p>
+                    Hardware Acceleration for Machine Learning Algorithms, supervised by Prof. Wayne Luk.
+                </p>
+            </div>
+            <!-- End .education-block -->
+            <div class="education-block">
+                <h3>Imperial College London</h3>
+                <span class="education-date">Sept 2017 - Sept 2018</span>
+                <h4>Master of Research (MRes) in Computing</h4>
+                <p>
+                    CPP Award with Highest Exam Marks in MRes, Distinction.
+                </p>
+            </div>
+            <div class="education-block">
+                <h3>Nanyang Technological University</h3>
+                <span class="education-date">July 2015 - Jan 2016</span>
+                <h4>Exchange Student in Electrical and Electronic Engineering</h4>
+                <p>
+                    90+ in Algorithm, Operating System and Digital System Design.
+                </p>
+            </div>
+            <div class="education-block">
+                <h3>Tianjin University</h3>
+                <span class="education-date">Sept 2013 - June 2017</span>
+                <h4>Bachelor of Engineering (B.Eng.) in Electrical and Electronic Engineering</h4>
+                <ul>
+                    <li>
+                        Cumulative GPA: 3.57/4.0
+                    </li>
+                    <li>
+                        IELTS: 7.0/9.0
+                    </li>
+                    <li>
+                        GRE: 320/340
+                    </li>
+                </ul>
+            </div>
+            <!-- End .education-block -->
+    </div>
+    <!-- End #education -->
+
+
+    <div id="skills">
+            <h2 class="heading">Skills</h2>
+            <ul>
+                <h3>Programming Languages</h3>
+                <a>Proficient in:</a>
+                <li>C++</li>
+                <li>Python</li>
+                <li>Verilog HDL</li>
+            </ul>
+            <ul>
+                <a>Basic ability in:</a>
+                <li>Matlab</li>
+                <li>Javascript</li>
+                <li>HTML</li>
+                <li>CSS</li>
+            </ul>
+            <ul>
+                <h3>Machine Learning Framework</h3>
+                <li>PyTorch</li>
+                <li>TensorFlow <a href="https://github.com/os-hxfan/tutorial_TFLite_android">[Project]</a> </li>
+                <li>MXNet <a href="https://github.com/os-hxfan/E3DNet">[Project]</a> </li>
+                <li>Caffe</li>
+            </ul>
+    </div>
+    <!-- End #skills -->
+
+    <div id="projects" class="background-alt">
+            <h2 class="heading">Selected Publications</h2>
+            <div class="container">
+                <div class="row">
+                    <div class="project shadow-large">
+                        <div class="project-image">
+                            <img src="images/ASAP_Snap2.png" style="width:300px;height:300px;"/>
+                        </div>
+                        <!-- End .project-image -->
+                        <div class="project-info">
+                            <h3>F-E3D: FPGA-based Acceleration of An Efficient 3D Convo-lutional Neural Networkfor Human Action Recognition</h3>
+                            <p>
+                                2019 International Conference on Application-specific Systems, <br> Architectures and Processors (ASAP) <br> Fan, Hongxiang and W. Luk
+                            </p>
+                            <a href="https://www.doc.ic.ac.uk/~wl/papers/19/asap19hf.pdf">[PDF]</a>
+                            <a href="https://github.com/os-hxfan/E3DNet">[Code]</a>
+                        </div>
+                        <!-- End .project-info -->
+                    </div>
+                    <!-- End .project -->
+    
+                    <div class="project shadow-large">
+                        <div class="project-image">
+                            <img src="images/FPL_Snap.png" style="width:300px;height:300px;"/>
+                        </div>
+                        <!-- End .project-image -->
+                        <div class="project-info">
+                            <h3>Reconfigurable Acceleration of 3D-CNNs for HumanAction Recognition with Block Floating-Point Representation</h3>
+                            <p>
+                                2018 International Conferenceon Field Programmable Logic and Applications (FPL) <br> Fan, Hongxiang, H.-C. Ng, and W. Luk,
+                            </p>
+                            <a href="https://www.doc.ic.ac.uk/~wl/papers/18/fpl18hf.pdf">[PDF]</a>
+                        </div>
+                        <!-- End .project-info -->
+                    </div>
+                    <!-- End .project -->
+                </div>
+            </div>
+    </div>
+    <!-- End #projects -->
+
+    <div id="experience" >
         <h2 class="heading">Experience</h2>
         <div id="experience-timeline">
             <div data-date="September 2018 – April 2019">
@@ -109,126 +245,7 @@
     </div>
     <!-- End #experience -->
 
-    <div id="education">
-        <h2 class="heading">Education</h2>
-        <div class="education-block">
-            <h3>Imperial College London</h3>
-            <span class="education-date">October 2018 – Present</span>
-            <h4>Doctor of Philosophy (Ph.D.) in Advanced Computing</h4>
-            <p>
-                Hardware Acceleration for Machine Learning Algorithms, supervised by Prof. Wayne Luk.
-            </p>
-        </div>
-        <!-- End .education-block -->
-        <div class="education-block">
-            <h3>Imperial College London</h3>
-            <span class="education-date">Sept 2017 - Sept 2018</span>
-            <h4>Master of Research (MRes) in Computing</h4>
-            <p>
-                CPP Award with Highest Exam Marks in MRes, Distinction.
-            </p>
-        </div>
-        <div class="education-block">
-            <h3>Nanyang Technological University</h3>
-            <span class="education-date">July 2015 - Jan 2016</span>
-            <h4>Exchange Student in Electrical and Electronic Engineering</h4>
-            <p>
-                90+ in Algorithm, Operating System and Digital System Design.
-            </p>
-        </div>
-        <div class="education-block">
-            <h3>Tianjin University</h3>
-            <span class="education-date">Sept 2013 - June 2017</span>
-            <h4>Bachelor of Engineering (B.Eng.) in Electrical and Electronic Engineering</h4>
-            <ul>
-                <li>
-                    Cumulative GPA: 3.57/4.0
-                </li>
-                <li>
-                    IELTS: 7.0/9.0
-                </li>
-                <li>
-                    GRE: 320/340
-                </li>
-            </ul>
-        </div>
-        <!-- End .education-block -->
-    </div>
-    <!-- End #education -->
 
-    <div id="projects" class="background-alt">
-        <h2 class="heading">Publications</h2>
-        <div class="container">
-            <div class="row">
-                <div class="project shadow-large">
-                    <div class="project-image">
-                        <img src="images/project.jpg" />
-                    </div>
-                    <!-- End .project-image -->
-                    <div class="project-info">
-                        <h3>F-E3D: FPGA-based Acceleration of An Efficient 3D Convo-lutional Neural Networkfor Human Action Recognition</h3>
-                        <p>
-                            2019 International Conference on Application-specific Systems, <br> Architectures and Processors (ASAP) <br> Fan, Hongxiang and W. Luk
-                        </p>
-                        <a href="https://www.doc.ic.ac.uk/~wl/papers/19/asap19hf.pdf">[PDF]</a>
-                        <a href="https://github.com/os-hxfan/E3DNet">[Code]</a>
-                    </div>
-                    <!-- End .project-info -->
-                </div>
-                <!-- End .project -->
-
-                <div class="project shadow-large">
-                    <div class="project-image">
-                        <img src="images/project.jpg" />
-                    </div>
-                    <!-- End .project-image -->
-                    <div class="project-info">
-                        <h3>Reconfigurable Acceleration of 3D-CNNs for HumanAction Recognition with Block Floating-Point Representation</h3>
-                        <p>
-                            2018 International Conferenceon Field Programmable Logic and Applications (FPL) <br> Fan, Hongxiang, H.-C. Ng, and W. Luk,
-                        </p>
-                        <a href="https://www.doc.ic.ac.uk/~wl/papers/18/fpl18hf.pdf">[PDF]</a>
-                    </div>
-                    <!-- End .project-info -->
-                </div>
-                <!-- End .project -->
-            </div>
-        </div>
-    </div>
-    <!-- End #projects -->
-
-    <div id="skills">
-        <h2 class="heading">Skills</h2>
-        <ul>
-            <li>JavaScript</li>
-            <li>Python</li>
-            <li>Ruby</li>
-            <li>Go</li>
-            <li>Node.js</li>
-            <li>AngularJs</li>
-            <li>React</li>
-            <li>Elixir</li>
-            <li>Java</li>
-            <li>C</li>
-            <li>C#</li>
-            <li>C++</li>
-            <li>Ruby on Rails</li>
-            <li>JavaScript</li>
-            <li>Python</li>
-            <li>Ruby</li>
-            <li>Go</li>
-            <li>Node.js</li>
-            <li>AngularJs</li>
-            <li>React</li>
-            <li>Elixir</li>
-            <li>Java</li>
-            <li>C</li>
-            <li>C#</li>
-            <li>C++</li>
-            <li>Ruby on Rails</li>
-        </ul>
-    </div>
-    <!-- End #skills -->
 
     <!-- <div id="contact">
         <h2>Get in Touch</h2>
