@@ -229,6 +229,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-titles-from-headings
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -289,3 +290,8 @@ defaults:
       comments: # true
       share: true
       related: true
+
+titles_from_headings:
+  enabled:     true
+  strip_title: true
+  collections: true 

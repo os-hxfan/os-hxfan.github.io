@@ -1,6 +1,4 @@
-I"	<h3 id="about-me">About Me</h3>
-
-<p>I am currently a forth-year Ph.D. student in Machine Learning and High-Performance Computing at Imperial College London, supervised by Prof. <a href="https://www.imperial.ac.uk/people/w.luk">Wayne Luk</a>. My current research focues on:</p>
+I"�<p>I am currently a forth-year Ph.D. student in Machine Learning and High-Performance Computing at Imperial College London, supervised by Prof. <a href="https://www.imperial.ac.uk/people/w.luk">Wayne Luk</a>. My current research focues on:</p>
 
 <ul>
   <li>ML for Hardware System
@@ -22,7 +20,7 @@
 
 <hr />
 
-<h4 id="news">News!</h4>
+<h1 id="news">News!</h1>
 
 <p><em>2022/02</em>: Two papers are accepted by DAC’22:</p>
 
@@ -58,5 +56,4 @@
 <p><em>2018/12</em>: Our paper “A Real-Time Object Detection Accelerator with Compressed SSDLite on FPGA” receive <strong>Best Paper Nomination</strong> in <a href="http://www.fpt18.sakura.ne.jp/program.html">FPT’18</a>.</p>
 
 <p>…………….</p>
-
 :ET

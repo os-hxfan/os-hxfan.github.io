@@ -15,6 +15,7 @@ source "https://rubygems.org"
 
 gem "jekyll"
 gem "minimal-mistakes-jekyll"
+gem 'jekyll-titles-from-headings'
 
 # The following plugins are automatically loaded by the theme-gem:
 #   gem "jekyll-paginate"
