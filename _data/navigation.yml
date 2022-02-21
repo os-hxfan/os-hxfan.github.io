@@ -1,0 +1,18 @@
+# main links
+main:
+  - title: "Home"
+    url: index
+  - title: "Publications"
+    url: /pages/pub
+  - title: "Experience"
+    url: /pages/exp
+  - title: "Software"
+    url: https://github.com/os-hxfan
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
