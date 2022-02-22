@@ -1,0 +1,59 @@
+I"�<p>I am currently a fourth-year Ph.D. student in Machine Learning and High-Performance Computing at Imperial College London, supervised by Prof. <a href="https://www.imperial.ac.uk/people/w.luk">Wayne Luk</a>. My current research focuses on:</p>
+
+<ul>
+  <li>ML for Hardware System
+    <ul>
+      <li>Co-Design for Reconfigurable Accelerator: <a href="">DAC’22</a>, <a href="https://arxiv.org/pdf/2111.12787.pdf">ASP-DAC’22</a>, <a href="https://www.doc.ic.ac.uk/~wl/papers/20/iccd20hf.pdf">ICCD’20</a></li>
+      <li>ML-Assisted Qauntum EDA: <a href="">DAC’22</a></li>
+    </ul>
+  </li>
+  <li>Hardware System for ML
+    <ul>
+      <li>Bayesian Neural Network: <a href="https://arxiv.org/abs/2002.00190">DAC’21</a>, <a href="">TCAD’22</a>, <a href="">TPDS’22</a></li>
+      <li>Convolutional Neural Network: <a href="https://www.doc.ic.ac.uk/~wl/papers/21/date21sl.pdf">DATE’21</a>, <a href="https://www.doc.ic.ac.uk/~wl/papers/21/tnnls21sl.pdf">TNNLS’21</a>, <a href="https://ieeexplore.ieee.org/abstract/document/9570135">TNNLS’22</a>, <a href="https://ieeexplore.ieee.org/abstract/document/8977902">FPT’19</a>, <a href="https://ieeexplore.ieee.org/abstract/document/8825127">ASAP’19</a>, <a href="https://kalman.mee.tcd.ie/fpl2018/content/pdfs/FPL2018-43iDzVTplcpussvbfIaaHz/7wTTri20Bf7cOu5oGV2354/2OD0B3Lyud8KEWPyGHhnIb.pdf">FPL’18</a>, <a href="https://www.doc.ic.ac.uk/~wl/papers/18/fpt18hf.pdf">FPT’18</a></li>
+      <li>Gragh or Recurrent Neural Network: <a href="">ISCAS’22</a>, <a href="https://www.doc.ic.ac.uk/~wl/papers/20/fccm20zq.pdf">FCCM’20</a>, <a href="https://ieeexplore.ieee.org/abstract/document/9664799">TVLSI’22</a></li>
+    </ul>
+  </li>
+</ul>
+
+<p>Our research also has received <strong>Best Paper Nomination</strong> at <a href="https://asap2019.csl.cornell.edu/program.html">ASAP’19</a>, <a href="http://www.fpt18.sakura.ne.jp/program.html">FPT’18</a>.</p>
+
+<hr />
+
+<h3 id="news">News!</h3>
+
+<p><em>2022/02</em>: Two papers are accepted by DAC’22:</p>
+
+<ul>
+  <li>
+    <font size="3"> “Optimizing Quantum Circuit Placement via Machine Learning”, Hongxiang Fan et al.</font>
+  </li>
+  <li>
+    <font size="3"> "Fast Uncertainty Estimation by Accelerating Bayesian Transformers", Hongxiang Fan et al.</font>
+  </li>
+</ul>
+
+<p><em>2022/02</em>: One paper titled “<a href="">FPGA-based Acceleration for Bayesian Convolutional Neural Networks</a>” is accepted by TCAD.</p>
+
+<p><em>2022/01</em>: One paper titled “<a href="">Accelerating Bayesian Neural Networks via Algorithmic and Hardware Optimizations</a>” is accepted by TPDS.</p>
+
+<p><em>2022/01</em>: One paper titled “<a href="">Customizable FPGA-based Accelerator for Binarized Graph Neural Networks</a>” is accepted by ISCAS. This is my first time to supervise a first-year Ph.D. student to publish a conference paper as the corresponding author!</p>
+
+<p><em>2021/12</em>: One co-author paper related recurrent neural network is accepted by TVLSI.</p>
+
+<p><em>2021/11</em>: Joining Samsung AI Center, Cambridge as Research Intern. Working with Prof. <a href="http://niclane.org/">Nicholas Lane</a>, Dr. <a href="https://tech.cornell.edu/people/mohamed-abdelfattah/">Mohamed Abdelfattah</a> and Dr. <a href="https://www.thomaschau.uk/">Thomas C P Chau</a>.</p>
+
+<p><em>2021/09</em>: One paper titled “<a href="https://ieeexplore.ieee.org/abstract/document/9570135">High-Performance Acceleration of 2-D and 3-D CNNs on FPGAs Using Static Block Floating Point</a>” is accepted by TNNLS.</p>
+
+<p><em>2021/09</em>: One paper titled “<a href="https://arxiv.org/pdf/2111.12787.pdf">Algorithm and Hardware Co-design for Reconfigurable CNN Accelerator</a>” is accepted by ASP-DAC’22.</p>
+
+<p>…………….</p>
+
+<p><em>2019/07</em>: Our paper “F-E3D: FPGA-based Acceleration of An Efficient 3D Convolutional Neural Network for Human Action Recognition” receive <strong>Best Paper Nomination</strong> in <a href="https://asap2019.csl.cornell.edu/program.html">ASAP’19</a>.</p>
+
+<p>…………….</p>
+
+<p><em>2018/12</em>: Our paper “A Real-Time Object Detection Accelerator with Compressed SSDLite on FPGA” receive <strong>Best Paper Nomination</strong> in <a href="http://www.fpt18.sakura.ne.jp/program.html">FPT’18</a>.</p>
+
+<p>…………….</p>
+:ET

@@ -20,8 +20,8 @@ ___
 
 ##### 2021
 
-| [J3] | **Hongxiang Fan**, Shuanglong Liu, Zhiqiang Que, Xinyu Niu, Wayne Luk. “High-Performance Acceleration of 2D and 3D CNNs on FPGAs using Static Block Floating-Point”, *IEEE Transactions on Neural Networks and Learning Systems* (**TNNLS**, IF:12.51), Early Acess, 2021.
-| [J2] | Shuanglong Liu, **Hongxiang Fan**, Martin Ferianc, Xinyu Niu, Huifeng Shi, and Wayne Luk. “Toward Full-Stack Acceleration of Deep Convolutional Neural Networks on FPGAs”, *IEEE Transactions on Neural Networks and Learning Systems* (**TNNLS**, IF:12.51), Early Acess, 2021.
+| [J3] | **Hongxiang Fan**, Shuanglong Liu, Zhiqiang Que, Xinyu Niu, Wayne Luk. “High-Performance Acceleration of 2D and 3D CNNs on FPGAs using Static Block Floating-Point”, *IEEE Transactions on Neural Networks and Learning Systems* (**TNNLS, IF:12.51**), 2021.
+| [J2] | Shuanglong Liu, **Hongxiang Fan**, Martin Ferianc, Xinyu Niu, Huifeng Shi, and Wayne Luk. “Toward Full-Stack Acceleration of Deep Convolutional Neural Networks on FPGAs”, *IEEE Transactions on Neural Networks and Learning Systems* (**TNNLS, IF:12.51**), 2021.
 
 ##### 2018
 
@@ -72,4 +72,5 @@ ___
 ##### 2017
 
 | [C1] | **Hongxiang Fan**, Xinyu Niu, Qiang Liu, Wayne Luk. “F-C3D: FPGA-based 3-Dimensional Convolutional Neural Network”, in the proceedings of the *IEEE International Conference on Field Programmable Logic and Applications*, 2017 (**FPL'17**).
+
 ___
