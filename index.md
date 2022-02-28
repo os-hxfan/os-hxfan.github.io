@@ -6,7 +6,7 @@ order: 1
 
 ### About Me
 
-I am currently a fourth-year Ph.D. student in Machine Learning and High-Performance Computing at Imperial College London, supervised by Prof. [Wayne Luk](https://www.imperial.ac.uk/people/w.luk). My current research focuses on:
+My research interests focus on hardware system and machine learning. During my Ph.D., I was studying high-performance machine learning algorithms and hardware, supervised by Prof. [Wayne Luk](https://www.imperial.ac.uk/people/w.luk) at Imperial College London. My current research includes:
 
 - ML for Hardware System
     - Co-Design for Reconfigurable Accelerator: [DAC'22](), [ASP-DAC'22](https://arxiv.org/pdf/2111.12787.pdf), [ICCD'20](https://www.doc.ic.ac.uk/~wl/papers/20/iccd20hf.pdf)
