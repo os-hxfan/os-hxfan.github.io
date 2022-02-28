@@ -71,14 +71,14 @@ ___
 
 **<font size=4>Doctor of Philosophy (Ph.D.) in Advanced Computing</font>**
 
-*<font size=4>2018.10 - Present</font>* 
+*<font size=4>2018 - 2022</font>* 
 
 
 ###### Imperial College London
 
 **<font size=4>Master of Research (MRes) in Advanced Computing</font>**
 
-*<font size=4>2017.09 - 2018.09</font>* 
+*<font size=4>2017 - 2018</font>* 
 
 
 ###### Nanyang Technological University
@@ -92,4 +92,4 @@ ___
 
 **<font size=4>Bachelor of Engineering (B.Eng.) in Electrical and Electronic Engineering</font>**
 
-*<font size=4>2013.09 - 2017.07</font>* 
+*<font size=4>2013 - 2017</font>* 
