@@ -22,6 +22,10 @@ ___
 
 ### News!
 
+*2022/05*: Hongxiang is invited to serve on the [FPT 2022 TPC](https://fpt22.hkust.edu.hk/), welcome to submit!   
+
+*2022/05*: One paper titled "[Remarn: A Reconfigurable Multi-threaded Multi-core Accelerator for Recurrent Neural Networks]()" is accepted by TRETS.
+
 *2022/02*: Two papers are accepted by DAC'22: 
 
 - <font size=3> “Optimizing Quantum Circuit Placement via Machine Learning”, Hongxiang Fan et al.</font>
