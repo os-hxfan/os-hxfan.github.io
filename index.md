@@ -20,6 +20,9 @@ Our research also has received **Best Paper Nomination** at [ASAP'19](https://as
 ___
 
 #### News!
+*2022/05*: Hongxiang is invited to serve on the [FPT 2022 TPC](https://fpt22.hkust.edu.hk/), welcome to submit!
+
+*2022/05*: One paper titled "[Remarn: A Reconfigurable Multi-threaded Multi-core Accelerator for Recurrent Neural Networks]()" is accepted by TRETS.
 
 *2022/02*: Two papers are accepted by DAC'22: 
 
