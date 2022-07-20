@@ -22,6 +22,8 @@ ___
 
 ### News!
 
+*2022/07*: One paper titled "[Adaptable Butterfly Accelerator for Attention-based NNs via Hardware and Algorithm Co-design]()" is accepted by MICRO'22!
+
 *2022/05*: Hongxiang is invited to serve on the [FPT 2022 TPC](https://fpt22.hkust.edu.hk/), welcome to submit!   
 
 *2022/05*: One paper titled "[Remarn: A Reconfigurable Multi-threaded Multi-core Accelerator for Recurrent Neural Networks]()" is accepted by TRETS.

@@ -34,6 +34,7 @@ ___
 
 ##### 2022
 
+| [C17] | **Hongxiang Fan**, Thomas Chau, Stylianos Venieris, Royson Lee, Alexandros Kouris, Wayne Luk, Nicholas D. Lane, Mohamed Abdelfattah. “Adaptable Butterfly Accelerator for Attention-based NNs via Hardware and Algorithm Co-design”, to appear in the the 55th ACM/IEEE International Symposium on Microarchitecture (**MICRO** 2022).
 | [C16] | **Hongxiang Fan**, Ce Guo, Wayne Luk. “Optimizing Quantum Circuit Placement via Machine Learning”, to appear in the proceedings of the *Design Automation Conference*, 2022 (**DAC'22**).
 | [C15] | **Hongxiang Fan**, Martin Ferianc, Wayne Luk. “Enabling Fast Uncertainty Estimation by Accelerating Bayesian Transformers”, to appear in the proceedings of the *Design Automation Conference*, 2022 (**DAC'22**).
 | [C14] | Ziwei Wang, Zhiqiang Que, Wayne Luk, **Hongxiang Fan**. “Customizable FPGA-based Accelerator for Binarized Graph Neural Networks”, to appear in the proceedings of the *IEEE International Symposium on Circuits and Systems*, 2022 (**ISCAS'22**).
