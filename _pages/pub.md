@@ -14,8 +14,9 @@ ___
 
 ##### 2022
 
-| [J6] | **Hongxiang Fan**, Martin Ferianc, Zhiqiang Que, Shuanglong Liu, Xinyu Niu, Miguel Rodrigues, Wayne Luk. “FPGA-based Acceleration for Bayesian Convolutional Neural Networks”, to appear in the *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems* (**TCAD**), 2022.
-| [J5] | **Hongxiang Fan**, Martin Ferianc, Zhiqiang Que, Xinyu Niu, Miguel Rodrigues, Wayne Luk. “Optimizing Bayesian Neural Networks via Algorithmic and Hardware Optimizations”, to appear in the *IEEE Transactions on Parallel and Distributed Systems* (**TPDS**), 2022.
+| [J7] | **Hongxiang Fan**, Martin Ferianc, Zhiqiang Que, Shuanglong Liu, Xinyu Niu, Miguel Rodrigues, Wayne Luk. “FPGA-based Acceleration for Bayesian Convolutional Neural Networks”, to appear in the *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems* (**TCAD**), 2022.
+| [J6] | **Hongxiang Fan**, Martin Ferianc, Zhiqiang Que, Xinyu Niu, Miguel Rodrigues, Wayne Luk. “Optimizing Bayesian Neural Networks via Algorithmic and Hardware Optimizations”, to appear in the *IEEE Transactions on Parallel and Distributed Systems* (**TPDS**), 2022.
+| [J5] | Zhiqiang Que, Hiroki Nakahara, Hongxiang Fan, He Li, Jiuxi Meng, Kuen Hung Tsoi, Xinyu Niu, Eriko Nurvitadhi, Wayne Luk. “Remarn: A Reconfigurable Multi-threaded Multi-core Accelerator for Recurrent Neural Networks”, *ACM Transactions on Reconfigurable Technology and Systems* (**TRETS**), 2022.
 | [J4] | Zhiqiang Que, Hiroki Nakahara, Eriko  Nurvitadhi, Andrew  Boutros, **Hongxiang Fan**, Chenglong Zeng, Jiuxi Meng, Kuen Hung Tsoi, Xinyu Niu, Wayne Luk. “Recurrent Neural Networks with Column-wise Matrix-Vector Multiplication on FPGAs”, *IEEE Transactions on Very Large Scale Integration (VLSI) Systems* (**TVLSI**), Vol 30, Issue 2, February,2022.
 
 ##### 2021

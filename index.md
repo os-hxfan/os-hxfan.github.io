@@ -9,12 +9,12 @@ order: 1
 My research interests focus on hardware system and machine learning. During my Ph.D., I was studying high-performance machine learning algorithms and hardware, supervised by Prof. [Wayne Luk](https://www.imperial.ac.uk/people/w.luk) at Imperial College London. My current research includes:
 
 - ML for Hardware System
-    - Co-Design for Reconfigurable Accelerator: [DAC'22](), [ASP-DAC'22](https://arxiv.org/pdf/2111.12787.pdf), [ICCD'20](https://www.doc.ic.ac.uk/~wl/papers/20/iccd20hf.pdf)
+    - Co-Design for Reconfigurable Accelerator: [DAC'22](), [ASP-DAC'22](https://arxiv.org/pdf/2111.12787.pdf)
     - ML-Assisted Qauntum EDA: [DAC'22]()
 - Hardware System for ML
     - Attention-based Neural Network: [MICRO'22]()
-    - Bayesian Neural Network: [DAC'21](https://arxiv.org/abs/2002.00190), [TCAD'22](), [TPDS'22]()
-    - Convolutional Neural Network: [DATE'21](https://www.doc.ic.ac.uk/~wl/papers/21/date21sl.pdf), [TNNLS'21](https://www.doc.ic.ac.uk/~wl/papers/21/tnnls21sl.pdf), [TNNLS'22](https://ieeexplore.ieee.org/abstract/document/9570135), [FPT'19](https://ieeexplore.ieee.org/abstract/document/8977902), [ASAP'19](https://ieeexplore.ieee.org/abstract/document/8825127), [FPL'18](https://kalman.mee.tcd.ie/fpl2018/content/pdfs/FPL2018-43iDzVTplcpussvbfIaaHz/7wTTri20Bf7cOu5oGV2354/2OD0B3Lyud8KEWPyGHhnIb.pdf), [FPT'18](https://www.doc.ic.ac.uk/~wl/papers/18/fpt18hf.pdf)
+    - Bayesian Neural Network: [DAC'21](https://arxiv.org/abs/2002.00190), [TCAD'22](https://ieeexplore.ieee.org/document/9743481/), [TPDS'22](https://www.computer.org/csdl/journal/td/2022/12/09720069/1BefexMFkcM)
+    - Convolutional Neural Network: [DATE'21](https://www.doc.ic.ac.uk/~wl/papers/21/date21sl.pdf), [TNNLS'22](https://ieeexplore.ieee.org/abstract/document/9570135), [ASAP'19](https://ieeexplore.ieee.org/abstract/document/8825127), [FPT'18](https://www.doc.ic.ac.uk/~wl/papers/18/fpt18hf.pdf)
     - Gragh or Recurrent Neural Network: [ISCAS'22](), [FCCM'20](https://www.doc.ic.ac.uk/~wl/papers/20/fccm20zq.pdf), [TVLSI'22](https://ieeexplore.ieee.org/abstract/document/9664799)
 
 Our research also has received **Best Paper Nomination** at [ASAP'19](https://asap2019.csl.cornell.edu/program.html), [FPT'18](http://www.fpt18.sakura.ne.jp/program.html).
