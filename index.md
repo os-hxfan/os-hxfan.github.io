@@ -6,6 +6,7 @@ order: 1
 
 ### About Me
 
+I am a Researcher at University of Cambridge and a Research Scientist at Samsung AI Centre Cambridge.
 My research interests focus on hardware system and machine learning. During my Ph.D., I was studying high-performance machine learning algorithms and hardware, supervised by Prof. [Wayne Luk](https://www.imperial.ac.uk/people/w.luk) at Imperial College London. My current research includes:
 
 - ML for Hardware System
@@ -22,6 +23,8 @@ Our research also has received **Best Paper Nomination** at [ASAP'19](https://as
 ___
 
 ### News!
+
+*2022/08*: Three ACM reproducibility badges are awarded to our MICRO'22 paper (artifacts availability, functionality and reproducibility)! The code is available [here](https://zenodo.org/record/7010800#.YxEvwezMJhG).
 
 *2022/07*: One paper titled "[Adaptable Butterfly Accelerator for Attention-based NNs via Hardware and Algorithm Co-design]()" is accepted by MICRO'22!
 
