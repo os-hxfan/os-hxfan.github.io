@@ -11,15 +11,15 @@ My research interests focus on hardware system and machine learning. During my P
 
 - Hardware System for ML
     - Attention-based Neural Network: [MICRO'22](https://arxiv.org/abs/2209.09570), [DAC'22](https://dl.acm.org/doi/abs/10.1145/3489517.3530451)
-    - Bayesian Neural Network: [DAC'21](https://arxiv.org/abs/2002.00190), [TCAD'22](https://ieeexplore.ieee.org/document/9743481/)
-    - Convolutional Neural Network: [DATE'21](https://www.doc.ic.ac.uk/~wl/papers/21/date21sl.pdf), [TNNLS'22](https://ieeexplore.ieee.org/abstract/document/9570135), [ASAP'19](https://ieeexplore.ieee.org/abstract/document/8825127), [FPT'18](https://www.doc.ic.ac.uk/~wl/papers/18/fpt18hf.pdf)
+    - Bayesian Neural Network: [DAC'21](https://ieeexplore.ieee.org/abstract/document/9586137), [TCAD'22](https://ieeexplore.ieee.org/document/9743481/)
+    - Convolutional Neural Network: [DATE'21](https://www.doc.ic.ac.uk/~wl/papers/21/date21sl.pdf), [TNNLS'22](https://ieeexplore.ieee.org/abstract/document/9570135), [ASAP'19](https://ieeexplore.ieee.org/abstract/document/8825127) (Best Paper Nominee), [FPT'18](https://www.doc.ic.ac.uk/~wl/papers/18/fpt18hf.pdf) (Best Paper Nominee).
     - Gragh or Recurrent Neural Network: [ISCAS'22](), [FCCM'20](https://www.doc.ic.ac.uk/~wl/papers/20/fccm20zq.pdf), [TVLSI'22](https://ieeexplore.ieee.org/abstract/document/9664799)
 
 - ML for Hardware System
     - Co-Design for Reconfigurable Accelerator: [TPDS'22](https://ieeexplore.ieee.org/abstract/document/9720069), [ASP-DAC'22](https://arxiv.org/pdf/2111.12787.pdf)
     - ML-Assisted Qauntum EDA: [DAC'22](https://dl.acm.org/doi/abs/10.1145/3489517.3530403)
 
-Our research also has received **Best Paper Nomination** at [ASAP'19](https://asap2019.csl.cornell.edu/program.html), [FPT'18](http://www.fpt18.sakura.ne.jp/program.html).
+Our research has received **Best Paper Nomination** at [ASAP'19](https://asap2019.csl.cornell.edu/program.html), [FPT'18](http://www.fpt18.sakura.ne.jp/program.html).
 
 ___
 
