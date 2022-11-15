@@ -6,7 +6,7 @@ order: 1
 
 ### About Me
 
-I am a Researcher at University of Cambridge and a Research Scientist at Samsung AI Centre Cambridge.
+I am an affiliated Postdoctoral Researcher at University of Cambridge and a Research Scientist at Samsung AI Centre Cambridge.
 My research interests focus on hardware system and machine learning. During my Ph.D., I was studying high-performance machine learning algorithms and hardware, supervised by Prof. [Wayne Luk](https://www.imperial.ac.uk/people/w.luk) at Imperial College London. My current research includes:
 
 - Hardware System for ML
@@ -17,13 +17,20 @@ My research interests focus on hardware system and machine learning. During my P
 
 - ML for Hardware System
     - Co-Design for Reconfigurable Accelerator: [TPDS'22](https://ieeexplore.ieee.org/abstract/document/9720069), [ASP-DAC'22](https://arxiv.org/pdf/2111.12787.pdf)
+
+- Quantum Computing    
     - ML-Assisted Qauntum EDA: [DAC'22](https://dl.acm.org/doi/abs/10.1145/3489517.3530403)
+    - Efficient Quantum Circuit: [TC'23](https://ieeexplore.ieee.org/document/9924609/)
 
 Our research has received **Best Paper Nomination** at [ASAP'19](https://asap2019.csl.cornell.edu/program.html), [FPT'18](http://www.fpt18.sakura.ne.jp/program.html).
 
 ___
 
 ### News!
+
+*2022/11*: Hongxiang is invited to serve on the [DAC 2023 TPC](https://www.dac.com/), welcome to submit!
+
+*2022/10*: One paper titled "[Design Space Exploration for Efficient Quantum Most-Significant Digit-First Arithmetic](https://ieeexplore.ieee.org/document/9924609/)" is accepted by TC!
 
 *2022/08*: Three ACM reproducibility badges are awarded to our [MICRO'22](https://arxiv.org/abs/2209.09570) paper (artifacts availability, functionality and reproducibility)! The code is available [here](https://zenodo.org/record/7010800#.YxEvwezMJhG).
 
