@@ -6,7 +6,7 @@ order: 1
 
 ### About Me
 
-I am an affiliated Postdoctoral Researcher at University of Cambridge and a Research Scientist at Samsung AI Centre Cambridge.
+I am an Research Scientist & Affiliated Postdoctoral Researcher at Samsung AI Center Cambridge & University of Cambridge.
 My research interests focus on hardware system and machine learning. During my Ph.D., I was studying high-performance machine learning algorithms and hardware, supervised by Prof. [Wayne Luk](https://www.imperial.ac.uk/people/w.luk) at Imperial College London. My current research includes:
 
 - Hardware System for ML
