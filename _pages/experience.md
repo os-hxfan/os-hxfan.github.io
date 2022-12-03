@@ -67,6 +67,12 @@ ___
 
 ##  🏫 Educational Experience 
 
+###### University of Cambridge
+
+**<font size=4>Affiliated Postdoctoral Researcher</font>**
+
+*<font size=4>2022 - present</font>* 
+
 ###### Imperial College London
 
 **<font size=4>Doctor of Philosophy (Ph.D.) in Advanced Computing</font>**

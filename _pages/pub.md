@@ -12,9 +12,15 @@ ___
 
 ## Selected Journal Papers
 
+\* indicates equal contribution, ^ indicates corresponding author
+##### 2023
+
+| [J9] | Shuanglong Liu\*, **Hongxiang Fan\*** , Wayne Luk. “FPGA-based Acceleration for Bayesian Convolutional Neural Networks”, to appear in the *IEEE Transactions on Neural Networks and Learning Systems* (**TNNLS, IF:12.51**), 2023.
+| [J8] | He Li, Jiawei Liang, **Hongxiang Fan**, Yongming Tang. “Design Space Exploration for Efficient Quantum Most-Significant Digit-First Arithmetic”, to appear in the *IEEE Transactions on Computers* (**TC**), 2023.
+
 ##### 2022
 
-| [J7] | **Hongxiang Fan**, Martin Ferianc, Zhiqiang Que, Shuanglong Liu, Xinyu Niu, Miguel Rodrigues, Wayne Luk. “FPGA-based Acceleration for Bayesian Convolutional Neural Networks”, to appear in the *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems* (**TCAD**), 2022.
+| [J7] | **Hongxiang Fan\***, Martin Ferianc\*, Zhiqiang Que, Shuanglong Liu, Xinyu Niu, Miguel Rodrigues, Wayne Luk. “FPGA-based Acceleration for Bayesian Convolutional Neural Networks”, to appear in the *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems* (**TCAD**), 2022.
 | [J6] | **Hongxiang Fan**, Martin Ferianc, Zhiqiang Que, Xinyu Niu, Miguel Rodrigues, Wayne Luk. “Optimizing Bayesian Neural Networks via Algorithmic and Hardware Optimizations”, to appear in the *IEEE Transactions on Parallel and Distributed Systems* (**TPDS**), 2022.
 | [J5] | Zhiqiang Que, Hiroki Nakahara, Hongxiang Fan, He Li, Jiuxi Meng, Kuen Hung Tsoi, Xinyu Niu, Eriko Nurvitadhi, Wayne Luk. “Remarn: A Reconfigurable Multi-threaded Multi-core Accelerator for Recurrent Neural Networks”, *ACM Transactions on Reconfigurable Technology and Systems* (**TRETS**), 2022.
 | [J4] | Zhiqiang Que, Hiroki Nakahara, Eriko  Nurvitadhi, Andrew  Boutros, **Hongxiang Fan**, Chenglong Zeng, Jiuxi Meng, Kuen Hung Tsoi, Xinyu Niu, Wayne Luk. “Recurrent Neural Networks with Column-wise Matrix-Vector Multiplication on FPGAs”, *IEEE Transactions on Very Large Scale Integration (VLSI) Systems* (**TVLSI**), Vol 30, Issue 2, February,2022.
@@ -38,7 +44,7 @@ ___
 | [C17] | **Hongxiang Fan**, Thomas Chau, Stylianos Venieris, Royson Lee, Alexandros Kouris, Wayne Luk, Nicholas D. Lane, Mohamed Abdelfattah. “Adaptable Butterfly Accelerator for Attention-based NNs via Hardware and Algorithm Co-design”, to appear in the the 55th ACM/IEEE International Symposium on Microarchitecture (**MICRO** 2022).
 | [C16] | **Hongxiang Fan**, Ce Guo, Wayne Luk. “Optimizing Quantum Circuit Placement via Machine Learning”, to appear in the proceedings of the *Design Automation Conference*, 2022 (**DAC'22**).
 | [C15] | **Hongxiang Fan**, Martin Ferianc, Wayne Luk. “Enabling Fast Uncertainty Estimation by Accelerating Bayesian Transformers”, to appear in the proceedings of the *Design Automation Conference*, 2022 (**DAC'22**).
-| [C14] | Ziwei Wang, Zhiqiang Que, Wayne Luk, **Hongxiang Fan**. “Customizable FPGA-based Accelerator for Binarized Graph Neural Networks”, to appear in the proceedings of the *IEEE International Symposium on Circuits and Systems*, 2022 (**ISCAS'22**).
+| [C14] | Ziwei Wang, Zhiqiang Que, Wayne Luk, **Hongxiang Fan\^**. “Customizable FPGA-based Accelerator for Binarized Graph Neural Networks”, to appear in the proceedings of the *IEEE International Symposium on Circuits and Systems*, 2022 (**ISCAS'22**).
 | [C13] | **Hongxiang Fan**, Martin Ferianc, Zhiqiang Que, Shuanglong Liu, Xinyu Niu, Wayne Luk. “Algorithm and Hardware Co-design for Reconfigurable CNN Accelerator”, in the proceedings of the *Asia and South Pacific Design Automation Conference*, 2022 (**ASP-DAC'22**).
 
 ##### 2021
@@ -47,7 +53,7 @@ ___
 
 | [C11] | Shuanglong Liu, **Hongxiang Fan**, Wayne Luk. “Accelerating Fully Spectral CNNs with Adaptive Activation Functions”, in the proceedings of the *Design, Automation and Test in Europe Conference and Exhibition*, 2021 (**DATE'21**).
 
-| [C10] | **Hongxiang Fan**, Martin Ferianc, Miguel Rodrigues, Hongyu Zhou, Xinyu Niu, Wayne Luk. “High-Performance FPGA-based Accelerator for Bayesian Neural Networks”, in the proceedings of the *Design Automation Conference*, 2021 (**DAC'21**).
+| [C10] | **Hongxiang Fan\***, Martin Ferianc\*, Miguel Rodrigues, Hongyu Zhou, Xinyu Niu, Wayne Luk. “High-Performance FPGA-based Accelerator for Bayesian Neural Networks”, in the proceedings of the *Design Automation Conference*, 2021 (**DAC'21**).
 
 ##### 2020
 
