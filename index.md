@@ -6,7 +6,7 @@ order: 1
 
 ### About Me
 
-I am an Research Scientist & Affiliated Postdoctoral Researcher at Samsung AI Center Cambridge & University of Cambridge.
+I am an Research Scientist & Postdoctoral Researcher at Samsung AI Center Cambridge & University of Cambridge (Affiliated with [Clare Hall College](https://www.clarehall.cam.ac.uk/) and [Machine Learning Systems Lab](http://niclane.org/lab/)).
 My research interests focus on hardware system and machine learning. During my Ph.D., I was studying high-performance machine learning algorithms and hardware, supervised by Prof. [Wayne Luk](https://www.imperial.ac.uk/people/w.luk) at Imperial College London. My current research includes:
 
 - Hardware System for ML
@@ -34,7 +34,7 @@ ___
 
 *2022/10*: One paper titled "[Design Space Exploration for Efficient Quantum Most-Significant Digit-First Arithmetic](https://ieeexplore.ieee.org/document/9924609/)" is accepted by TC!
 
-*2022/08*: Three ACM reproducibility badges are awarded to our [MICRO'22](https://arxiv.org/abs/2209.09570) paper (artifacts availability, functionality and reproducibility)! The code is available [here](https://zenodo.org/record/7010800#.YxEvwezMJhG).
+*2022/08*: Three ACM reproducibility badges are awarded to our [MICRO'22](https://arxiv.org/abs/2209.09570) paper (artifacts availability, functionality and reproducibility)! The code is available [here](https://github.com/SamsungLabs/Butterfly_Acc).
 
 *2022/07*: One paper titled "[Adaptable Butterfly Accelerator for Attention-based NNs via Hardware and Algorithm Co-design]()" is accepted by MICRO'22!
 
