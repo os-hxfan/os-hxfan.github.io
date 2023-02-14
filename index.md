@@ -28,6 +28,9 @@ ___
 
 ### News!
 
+
+*2023/02*: One paper is accepted by DAC'23! See you in San Francisco this July.
+
 *2022/12*: One paper titled "[Design of Fully Spectral CNNs for Efficient FPGA-Based Acceleration](https://ieeexplore.ieee.org/document/9969527)" is accepted by TNNLS!
 
 *2022/11*: Hongxiang is invited to serve on the [DAC 2023 TPC](https://www.dac.com/), welcome to submit!
