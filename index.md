@@ -6,7 +6,7 @@ order: 1
 
 ### About Me
 
-I am an Research Scientist & Postdoctoral Researcher at Samsung AI Center Cambridge & University of Cambridge (Affiliated with [Clare Hall College](https://www.clarehall.cam.ac.uk/) and [Machine Learning Systems Lab](http://niclane.org/lab/)).
+I am a Research Scientist & affiliated Postdoctoral Researcher at Samsung AI Center Cambridge & University of Cambridge (Affiliated with [Clare Hall College](https://www.clarehall.cam.ac.uk/) and [Machine Learning Systems Lab](http://niclane.org/lab/)).
 My research interests focus on hardware system and machine learning. During my Ph.D., I was studying high-performance machine learning algorithms and hardware, supervised by Prof. [Wayne Luk](https://www.imperial.ac.uk/people/w.luk) at Imperial College London. My current research includes:
 
 - Hardware System for ML
