@@ -15,7 +15,7 @@ ___
 \* indicates equal contribution, ^ indicates corresponding author
 ##### 2023
 
-| [J9] | Shuanglong Liu\*, **Hongxiang Fan\*** , Wayne Luk. “FPGA-based Acceleration for Bayesian Convolutional Neural Networks”, to appear in the *IEEE Transactions on Neural Networks and Learning Systems* (**TNNLS, IF:12.51**), 2023.
+| [J9] | Shuanglong Liu\*, **Hongxiang Fan\*** , Wayne Luk. “Design of Fully Spectral CNNs for Efficient FPGA-based Acceleration”, to appear in the *IEEE Transactions on Neural Networks and Learning Systems* (**TNNLS, IF:12.51**), 2023.
 | [J8] | He Li, Jiawei Liang, **Hongxiang Fan**, Yongming Tang. “Design Space Exploration for Efficient Quantum Most-Significant Digit-First Arithmetic”, to appear in the *IEEE Transactions on Computers* (**TC**), 2023.
 
 ##### 2022
@@ -41,6 +41,7 @@ ___
 
 ##### 2023
 
+| [C18] | **Hongxiang Fan**, et al. “Sparse-DySta: Sparsity-Aware Dynamic and Static Scheduling for Sparse Multi-DNN WorkloadsA”, to appear in the 56th ACM/IEEE International Symposium on Microarchitecture (**MICRO** 2023).
 
 | [C18] | **Hongxiang Fan**, et al. “When Monte-Carlo Dropout Meets Multi-Exit: Optimizing Bayesian Neural Networks on FPGA”, to appear in the proceedings of *Design Automation Conference*, 2023 (**DAC'23**).
 

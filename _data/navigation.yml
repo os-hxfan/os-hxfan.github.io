@@ -6,8 +6,9 @@ main:
     url: /pages/pub
   - title: "Experience"
     url: /pages/exp
-  - title: "Software"
-    url: https://github.com/os-hxfan
+  - title: "Code Release"
+    url: /pages/software
+    # url: https://github.com/os-hxfan
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
