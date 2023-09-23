@@ -28,6 +28,7 @@ ___
 
 ### News!
 
+*2023/09*: Four ACM reproducibility badges are awarded to our MICRO'23 paper (artifacts available, reusable, functional and reproducible)! The code is available [here](https://github.com/SamsungLabs/Sparse-Multi-DNN-Scheduling).
 
 *2023/08*: Our preprint for the DAC'23 paper is now available on ArXiv at the [link](https://arxiv.org/pdf/2308.06849.pdf)! Try our open-sourced [code](https://github.com/os-hxfan/BayesNN_FPGA) if you are interested in accelerating robust deep learning on FPGA! You can also try our other projects by checking out the code release available at this [link](https://os-hxfan.github.io/pages/software).
 
