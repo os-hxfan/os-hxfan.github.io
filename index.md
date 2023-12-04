@@ -27,6 +27,8 @@ Our research has received **Best Paper Nomination** at [ASAP'19](https://asap201
 ___
 
 ### News!
+ 
+*2023/11*: Hongxiang is invited to serve on the [DAC 2024 TPC](https://www.dac.com/), welcome to submit!
 
 *2023/09*: Four ACM reproducibility badges are awarded to our MICRO'23 paper (artifacts available, reusable, functional and reproducible)! The code is available [here](https://github.com/SamsungLabs/Sparse-Multi-DNN-Scheduling).
 
