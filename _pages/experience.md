@@ -27,6 +27,21 @@ ___
 
 ## 👨‍🏫 Teaching Experience 
 
+###### Michaelmas Term, Part 1A, Digital Electronics
+*<font size=4>Department of Computer Science and Technology, University of Cambridge </font>, 2023* 
+
+- College supervisor for St John's, Girton and Peterhouse colleges.
+
+###### Michaelmas Term, Part 1B, Introduction to Computer Architectures
+*<font size=4>Department of Computer Science and Technology, University of Cambridge </font>, 2023* 
+
+- College supervisor for St John's, Girton and Peterhouse colleges.
+
+###### Michaelmas Term, Part 3 & Mphil., Principles of Machine Learning Systems
+*<font size=4>Department of Computer Science and Technology, University of Cambridge </font>, 2023* 
+
+- Lab instructor, orgnizing, preparing and supervising hand-on Practical sessions.
+
 ###### Spring, CO-40008, Introduction to Computer Architecture
 *<font size=4>Department of Computing, Imperial College London </font>, 2021* 
 
