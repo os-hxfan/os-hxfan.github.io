@@ -28,6 +28,8 @@ ___
 
 ### News!
  
+*2024/01*: One paper on language model and AI privacy is accepted by [ICLR'24](https://openreview.net/pdf?id=zzqn5G9fjn)!
+
 *2023/11*: Hongxiang is invited to serve on the [DAC 2024 TPC](https://www.dac.com/), welcome to submit!
 
 *2023/09*: Four ACM reproducibility badges are awarded to our MICRO'23 paper (artifacts available, reusable, functional and reproducible)! The code is available [here](https://github.com/SamsungLabs/Sparse-Multi-DNN-Scheduling).
