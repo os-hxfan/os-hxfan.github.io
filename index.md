@@ -12,11 +12,12 @@ My research interests focus on hardware system and machine learning. During my P
 - Hardware System for ML
     - Attention-based Neural Network: [MICRO'22](https://arxiv.org/abs/2209.09570), [DAC'22](https://dl.acm.org/doi/abs/10.1145/3489517.3530451)
     - Bayesian Neural Network: [DAC'23](https://arxiv.org/pdf/2308.06849.pdf), [DAC'21](https://ieeexplore.ieee.org/abstract/document/9586137), [TCAD'22](https://ieeexplore.ieee.org/document/9743481/)
+    - Accelerator/System for Trustworthy AI: [ICLR'24](https://openreview.net/pdf?id=zzqn5G9fjn), [DAC'24](https://os-hxfan.github.io/)
     - Convolutional Neural Network: [DATE'21](https://www.doc.ic.ac.uk/~wl/papers/21/date21sl.pdf), [TNNLS'22](https://ieeexplore.ieee.org/abstract/document/9570135), [ASAP'19](https://ieeexplore.ieee.org/abstract/document/8825127) (Best Paper Nominee), [FPT'18](https://www.doc.ic.ac.uk/~wl/papers/18/fpt18hf.pdf) (Best Paper Nominee).
-    - Gragh or Recurrent Neural Network: [ISCAS'22](https://spiral.imperial.ac.uk/bitstream/10044/1/94639/2/iscas22_zw7_final_checked.pdf), [FCCM'20](https://www.doc.ic.ac.uk/~wl/papers/20/fccm20zq.pdf), [TVLSI'22](https://ieeexplore.ieee.org/abstract/document/9664799)
+    <!-- - Gragh or Recurrent Neural Network: [ISCAS'22](https://spiral.imperial.ac.uk/bitstream/10044/1/94639/2/iscas22_zw7_final_checked.pdf), [FCCM'20](https://www.doc.ic.ac.uk/~wl/papers/20/fccm20zq.pdf), [TVLSI'22](https://ieeexplore.ieee.org/abstract/document/9664799) -->
 
 - ML for Hardware System
-    - Co-Design for Reconfigurable Accelerator: [MICRO'23](https://os-hxfan.github.io/), [TPDS'22](https://ieeexplore.ieee.org/abstract/document/9720069), [ASP-DAC'22](https://arxiv.org/pdf/2111.12787.pdf)
+    - Co-Design for Reconfigurable Accelerator: [MICRO'23](https://arxiv.org/pdf/2310.11096.pdf), [TPDS'22](https://ieeexplore.ieee.org/abstract/document/9720069), [ASP-DAC'22](https://arxiv.org/pdf/2111.12787.pdf)
 
 - Quantum Computing    
     - ML-Assisted Qauntum EDA: [DAC'22](https://dl.acm.org/doi/abs/10.1145/3489517.3530403)
@@ -27,7 +28,9 @@ Our research has received **Best Paper Nomination** at [ASAP'19](https://asap201
 ___
 
 ### News!
- 
+
+*2024/02*: One paper on hardware acceleration of Trustworthy AI is accepted by [DAC'24](https://os-hxfan.github.io/)!
+
 *2024/01*: One paper on language model and AI privacy is accepted by [ICLR'24](https://openreview.net/pdf?id=zzqn5G9fjn)!
 
 *2023/11*: Hongxiang is invited to serve on the [DAC 2024 TPC](https://www.dac.com/), welcome to submit!
