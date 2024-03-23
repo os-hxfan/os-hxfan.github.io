@@ -42,7 +42,7 @@ ___
 \* indicates equal contribution, ^ indicates corresponding author
 ##### 2024
 
-| [C22] | Yuan Li, Jianbin Zhu, Yao Fu, Yu Lei, Toshio Nagata, Ryan Braidwood, Haohuan Fu, Juepeng Zheng, Wayne Luk, **Hongxiang Fan^**. “Circular Reconfigurable Parallel Processor for Edge Computing”, to appear in the 56th ACM/IEEE International Symposium on Microarchitecture (**ISCA'24**).
+| [C22] | Yuan Li, Jianbin Zhu, Yao Fu, Yu Lei, Toshio Nagata, Ryan Braidwood, Haohuan Fu, Juepeng Zheng, Wayne Luk, **Hongxiang Fan^**. “Circular Reconfigurable Parallel Processor for Edge Computing”, to appear in the 51st International Symposium on Computer Architecture, 2024 (**ISCA'24**).
 
 | [C21] | Zehuan Zhang, **Hongxiang Fan^**, et al. “Hardware-Aware Neural Dropout Search for Reliable Uncertainty Prediction on FPGA”, to appear in the proceedings of *Design Automation Conference*, 2024 (**DAC'24**).
 

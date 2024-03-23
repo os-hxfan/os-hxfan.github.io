@@ -11,9 +11,9 @@ My research interests focus on hardware system and machine learning. During my P
 
 - Hardware System for ML
     - Attention-based Neural Network: [MICRO'22](https://arxiv.org/abs/2209.09570), [DAC'22](https://dl.acm.org/doi/abs/10.1145/3489517.3530451)
+    - Reconfigurable Hardware: [ISCA'24](https://os-hxfan.github.io/), [ASAP'19](https://ieeexplore.ieee.org/abstract/document/8825127) (Best Paper Nominee), [FPT'18](https://www.doc.ic.ac.uk/~wl/papers/18/fpt18hf.pdf) (Best Paper Nominee).
     - Bayesian Neural Network: [DAC'23](https://arxiv.org/pdf/2308.06849.pdf), [DAC'21](https://ieeexplore.ieee.org/abstract/document/9586137), [TCAD'22](https://ieeexplore.ieee.org/document/9743481/)
     - Accelerator/System for Trustworthy AI: [ICLR'24](https://openreview.net/pdf?id=zzqn5G9fjn), [DAC'24](https://os-hxfan.github.io/)
-    - Convolutional Neural Network: [DATE'21](https://www.doc.ic.ac.uk/~wl/papers/21/date21sl.pdf), [TNNLS'22](https://ieeexplore.ieee.org/abstract/document/9570135), [ASAP'19](https://ieeexplore.ieee.org/abstract/document/8825127) (Best Paper Nominee), [FPT'18](https://www.doc.ic.ac.uk/~wl/papers/18/fpt18hf.pdf) (Best Paper Nominee).
     <!-- - Gragh or Recurrent Neural Network: [ISCAS'22](https://spiral.imperial.ac.uk/bitstream/10044/1/94639/2/iscas22_zw7_final_checked.pdf), [FCCM'20](https://www.doc.ic.ac.uk/~wl/papers/20/fccm20zq.pdf), [TVLSI'22](https://ieeexplore.ieee.org/abstract/document/9664799) -->
 
 - ML for Hardware System
