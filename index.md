@@ -29,6 +29,8 @@ ___
 
 ### News!
 
+*2024/03*: One paper on edge CGRA hardware is accepted by [ISCA'24](https://os-hxfan.github.io/)!
+
 *2024/02*: One paper on hardware acceleration of Trustworthy AI is accepted by [DAC'24](https://os-hxfan.github.io/)!
 
 *2024/01*: One paper on language model and AI privacy is accepted by [ICLR'24](https://openreview.net/pdf?id=zzqn5G9fjn)!

@@ -39,18 +39,27 @@ ___
 
 ## Selected Conference Papers
 
+\* indicates equal contribution, ^ indicates corresponding author
+##### 2024
+
+| [C22] | Yuan Li, Jianbin Zhu, Yao Fu, Yu Lei, Toshio Nagata, Ryan Braidwood, Haohuan Fu, Juepeng Zheng, Wayne Luk, **Hongxiang Fan^**. “Circular Reconfigurable Parallel Processor for Edge Computing”, to appear in the 56th ACM/IEEE International Symposium on Microarchitecture (**ISCA'24**).
+
+| [C21] | Zehuan Zhang, **Hongxiang Fan^**, et al. “Hardware-Aware Neural Dropout Search for Reliable Uncertainty Prediction on FPGA”, to appear in the proceedings of *Design Automation Conference*, 2024 (**DAC'24**).
+
+| [C20] | Wanru Zhao, Royson Lee, Yihong Chen, Xinchi Qiu, Yan Gao, **Hongxiang Fan**, Nicholas Donald Lane. “Breaking Physical and Linguistic Borders: Multilingual Federated Prompt Tuning for Low-Resource Languages”, to appear in the proceedings of *International Conference on Learning Representations*, 2024 (**ICLR'24**).
+
 ##### 2023
 
-| [C18] | **Hongxiang Fan**, et al. “Sparse-DySta: Sparsity-Aware Dynamic and Static Scheduling for Sparse Multi-DNN WorkloadsA”, to appear in the 56th ACM/IEEE International Symposium on Microarchitecture (**MICRO** 2023).
+| [C19] | **Hongxiang Fan**, et al. “Sparse-DySta: Sparsity-Aware Dynamic and Static Scheduling for Sparse Multi-DNN WorkloadsA”, to appear in the 56th ACM/IEEE International Symposium on Microarchitecture (**MICRO'23**).
 
 | [C18] | **Hongxiang Fan**, et al. “When Monte-Carlo Dropout Meets Multi-Exit: Optimizing Bayesian Neural Networks on FPGA”, to appear in the proceedings of *Design Automation Conference*, 2023 (**DAC'23**).
 
 ##### 2022
 
-| [C17] | **Hongxiang Fan**, Thomas Chau, Stylianos Venieris, Royson Lee, Alexandros Kouris, Wayne Luk, Nicholas D. Lane, Mohamed Abdelfattah. “Adaptable Butterfly Accelerator for Attention-based NNs via Hardware and Algorithm Co-design”, to appear in the 55th ACM/IEEE International Symposium on Microarchitecture (**MICRO** 2022).
+| [C17] | **Hongxiang Fan**, Thomas Chau, Stylianos Venieris, Royson Lee, Alexandros Kouris, Wayne Luk, Nicholas D. Lane, Mohamed Abdelfattah. “Adaptable Butterfly Accelerator for Attention-based NNs via Hardware and Algorithm Co-design”, to appear in the 55th ACM/IEEE International Symposium on Microarchitecture (**MICRO'22**).
 | [C16] | **Hongxiang Fan**, Ce Guo, Wayne Luk. “Optimizing Quantum Circuit Placement via Machine Learning”, to appear in the proceedings of the *Design Automation Conference*, 2022 (**DAC'22**).
 | [C15] | **Hongxiang Fan**, Martin Ferianc, Wayne Luk. “Enabling Fast Uncertainty Estimation by Accelerating Bayesian Transformers”, to appear in the proceedings of the *Design Automation Conference*, 2022 (**DAC'22**).
-| [C14] | Ziwei Wang, Zhiqiang Que, Wayne Luk, **Hongxiang Fan\^**. “Customizable FPGA-based Accelerator for Binarized Graph Neural Networks”, to appear in the proceedings of the *IEEE International Symposium on Circuits and Systems*, 2022 (**ISCAS'22**).
+| [C14] | Ziwei Wang, Zhiqiang Que, Wayne Luk, **Hongxiang Fan^**. “Customizable FPGA-based Accelerator for Binarized Graph Neural Networks”, to appear in the proceedings of the *IEEE International Symposium on Circuits and Systems*, 2022 (**ISCAS'22**).
 | [C13] | **Hongxiang Fan**, Martin Ferianc, Zhiqiang Que, Shuanglong Liu, Xinyu Niu, Wayne Luk. “Algorithm and Hardware Co-design for Reconfigurable CNN Accelerator”, in the proceedings of the *Asia and South Pacific Design Automation Conference*, 2022 (**ASP-DAC'22**).
 
 ##### 2021
