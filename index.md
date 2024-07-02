@@ -6,8 +6,7 @@ order: 1
 
 ### About Me
 
-I am a Research Scientist & affiliated Postdoctoral Researcher at Samsung AI Center Cambridge & University of Cambridge (Affiliated with [Clare Hall College](https://www.clarehall.cam.ac.uk/) and Machine Learning Systems Lab with Prof. [Nicholas Lane](http://niclane.org/lab/)).
-My research interests focus on hardware system and machine learning. During my Ph.D., I was studying high-performance machine learning algorithms and hardware, supervised by Prof. [Wayne Luk](https://www.imperial.ac.uk/people/w.luk) at Imperial College London. My current research includes:
+I am a Research Scientist & affiliated Postdoctoral Researcher at Samsung AI Center Cambridge & University of Cambridge (Affiliated with [Clare Hall College](https://www.clarehall.cam.ac.uk/) and Machine Learning Systems Lab with Prof. [Nicholas Lane](http://niclane.org/lab/)). My current research includes:
 
 - Hardware System for ML
     - Attention-based Neural Network: [MICRO'22](https://arxiv.org/abs/2209.09570), [DAC'22](https://dl.acm.org/doi/abs/10.1145/3489517.3530451)
@@ -28,6 +27,10 @@ Our research has received **Best Paper Nomination** at [ASAP'19](https://asap201
 ___
 
 ### News!
+
+*2024/07*: Hongxiang will be joining the Computing Department at Imperial College as a Lecturer (equivalent to an Assistant Professor in the US system). For inquiries about Ph.D. and MRes opportunities, welcome to contact! 
+
+*2024/06*: Hongxiang is invited to serve as the session chair on the [DAC 2024 TPC](https://www.dac.com/).
 
 *2024/03*: One paper on edge CGRA hardware is accepted by [ISCA'24](https://os-hxfan.github.io/)!
 
