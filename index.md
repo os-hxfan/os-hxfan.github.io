@@ -29,7 +29,11 @@ ___
 
 ### News!
 
-*2024/03*: One paper on edge CGRA hardware is accepted by [ISCA'24](https://os-hxfan.github.io/)!
+*2024/07*: Hongxiang will be joining the Computing Department at Imperial College as a Lecturer (equivalent to an Assistant Professor in the US system). Welcome to inquire about Ph.D. and MRes opportunities! 
+
+*2024/06*: Hongxiang is invited to serve as the session chair on the [DAC 2024](https://www.dac.com/).
+
+*2024/03*: One paper on edge reconfigurable parallel hardware is accepted by [ISCA'24](https://os-hxfan.github.io/)!
 
 *2024/02*: One paper on hardware acceleration of Trustworthy AI is accepted by [DAC'24](https://os-hxfan.github.io/)!
 
