@@ -6,7 +6,7 @@ order: 1
 
 ### About Me
 
-I am a Research Scientist & affiliated Postdoctoral Researcher at Samsung AI Center Cambridge & University of Cambridge (Affiliated with [Clare Hall College](https://www.clarehall.cam.ac.uk/) and Machine Learning Systems Lab with Prof. [Nicholas Lane](http://niclane.org/lab/)).
+I am an incoming Assistant Professor (Lecturer) in the Department of Computing at Imperial College London. Currently, I am a Research Scientist & affiliated Postdoctoral Researcher at Samsung AI Center Cambridge & University of Cambridge.
 My research interests focus on hardware system and machine learning. My current research includes:
 
 - Hardware System for ML
@@ -29,7 +29,7 @@ ___
 
 ### News!
 
-*2024/07*: Hongxiang will be joining the Computing Department at Imperial College as a Lecturer (equivalent to an Assistant Professor in the US system). Welcome to inquire about Ph.D. and MRes opportunities! 
+*2024/07*: Hongxiang will be joining the Department of Computing at Imperial College London as a Lecturer (equivalent to an Assistant Professor in the US system). Welcome to inquire about Ph.D. and MRes opportunities! 
 
 *2024/06*: Hongxiang is invited to serve as the session chair on the [DAC 2024](https://www.dac.com/).
 
