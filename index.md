@@ -6,7 +6,7 @@ order: 1
 
 ### About Me
 
-I am an Assistant Professor (Lecturer) in the Department of Computing at Imperial College London. I am also holding an [visiting position](https://www.cst.cam.ac.uk/people/hf384) at University of Cambridge.
+I am an Assistant Professor (Lecturer) in the Department of Computing at Imperial College London. I am also holding a [visiting position](https://www.cst.cam.ac.uk/people/hf384) at the University of Cambridge. Prior to this, I worked as a Research Scientist at Samsung AI Cambridge and an affiliated postdoctoral researcher at the University of Cambridge.
 My research interests focus on hardware system and machine learning. My current research includes:
 
 - Hardware System for ML
@@ -29,7 +29,7 @@ ___
 
 ### News!
 
-*2024/10*: One paper on data selection and language model is accepted by [NeurIPS'25](https://os-hxfan.github.io/)! 
+*2024/10*: One paper on data selection and language model is accepted by [NeurIPS'24](https://os-hxfan.github.io/)! 
 
 *2024/09*: Secured 1.3M £ fund from EPSRC as Co-PI.
 
