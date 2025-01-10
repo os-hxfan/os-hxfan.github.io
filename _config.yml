@@ -105,7 +105,7 @@ analytics:
 author:
   name             : "Hongxiang Fan"
   avatar           : "/assets/images/Fan.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Assistant Professor (incoming), Imperial College London. <br> Affiliated Researcher, University of Cambridge. <br> Research Scientist, Samung AI Center Cambridge"
+  bio              : "Assistant Professor, Imperial College London. <br> Affiliated Researcher, University of Cambridge."
   location         : "London, UK"
   email            :
   links:

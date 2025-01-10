@@ -29,11 +29,11 @@ ___
 
 ### News!
 
-*2024/11*: Securing 1.3M £ fund from EPSRC as Co-PI.
+*2024/11*: Securing £1.3M fund from EPSRC as Co-PI.
 
 *2024/10*: One paper on data selection and language model is accepted by [NeurIPS'24](https://os-hxfan.github.io/)! 
 
-*2024/06*: Hongxiang is invited to serve as the session chair on the [DAC 2024](https://www.dac.com/).
+*2024/06*: Hongxiang is invited to serve as session chair for [DAC 2024](https://www.dac.com/).
 
 *2024/03*: One paper on edge reconfigurable parallel hardware is accepted by [ISCA'24](https://os-hxfan.github.io/)!
 
