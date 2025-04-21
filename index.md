@@ -20,14 +20,21 @@ My research interests focus on hardware system and machine learning. My current 
     - Co-Design for Reconfigurable Accelerator: [MICRO'23](https://arxiv.org/pdf/2310.11096.pdf), [TPDS'22](https://ieeexplore.ieee.org/abstract/document/9720069), [ASP-DAC'22](https://arxiv.org/pdf/2111.12787.pdf)
 
 - Quantum Computing    
-    - ML-Assisted Qauntum EDA: [DAC'22](https://dl.acm.org/doi/abs/10.1145/3489517.3530403)
-    - Efficient Quantum Circuit: [TC'23](https://ieeexplore.ieee.org/document/9924609/)
+    - ML-Assisted Qauntum EDA & Coding: [DAC'22](https://dl.acm.org/doi/abs/10.1145/3489517.3530403), [DAC'25](https://os-hxfan.github.io/)
+    - Efficient Quantum Circuit & Simulation: [TC'23](https://ieeexplore.ieee.org/document/9924609/), [DAC'25](https://arxiv.org/pdf/2503.19894)
 
 Our research has received **Best Paper Nomination** at [ASAP'19](https://asap2019.csl.cornell.edu/program.html), [FPT'18](http://www.fpt18.sakura.ne.jp/program.html).
 
 ___
 
 ### News!
+
+*2025/02*: Our recent works on LLM acceleration and quantum computing are accepted by [DAC'25](https://www.dac.com/).
+- Multi-agent quantum coding and Quantum Error Correction, titled "Enhancing LLM-based Quantum Code Generation with Multi-Agent Optimization and Quantum Error Correction".
+- Classical quantum simulation on CPU and GPU platforms, titled "Versatile Cross-platform Compilation Toolchain for Schr\" odinger-style Quantum Circuit Simulation".
+- Optimizing KV management for LLM inference, titled "VEDA: Efficient LLM Generation Through Voting-based KV Cache Eviction and Dataflow-flexible Accelerator"
+
+*2025/01*: Our work on adaptive LLM inference, collaborating with Samsung AI Cambridge, is accepted by [ICLR'24](https://arxiv.org/pdf/2410.13461) with [code](https://github.com/SamsungLabs/PMPD) released! 
 
 *2024/11*: Securing £1.3M fund from EPSRC as Co-PI.
 
