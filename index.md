@@ -10,7 +10,7 @@ I am an Assistant Professor in the Department of Computing at Imperial College L
 My research interests focus on hardware system and machine learning. My current research includes:
 
 - Hardware System for ML
-    - Attention-based NNs, LLM: [ASPLOS'25](https://arxiv.org/pdf/2509.00195), [MICRO'22](https://arxiv.org/abs/2209.09570), [DAC'22](https://dl.acm.org/doi/abs/10.1145/3489517.3530451)
+    - Attention-based NNs, LLM: [ASPLOS'26](https://arxiv.org/pdf/2509.00195), [MICRO'22](https://arxiv.org/abs/2209.09570), [DAC'22](https://dl.acm.org/doi/abs/10.1145/3489517.3530451)
     - Efficient Agentic AI: [NeurIPS'25](https://arxiv.org/pdf/2505.11730), [ICCV'25](https://arxiv.org/pdf/2503.12649?), [EMNLP'25](https://arxiv.org/pdf/2405.18628)
     - Reconfigurable Hardware: [ISCA'24](https://os-hxfan.github.io/), [ASAP'19](https://ieeexplore.ieee.org/abstract/document/8825127) (Best Paper Nominee), [FPT'18](https://www.doc.ic.ac.uk/~wl/papers/18/fpt18hf.pdf) (Best Paper Nominee).
     - Bayesian Neural Network: [DAC'23](https://arxiv.org/pdf/2308.06849.pdf), [DAC'21](https://ieeexplore.ieee.org/abstract/document/9586137), [TCAD'22](https://ieeexplore.ieee.org/document/9743481/)
@@ -18,12 +18,11 @@ My research interests focus on hardware system and machine learning. My current 
     <!-- - Gragh or Recurrent Neural Network: [ISCAS'22](https://spiral.imperial.ac.uk/bitstream/10044/1/94639/2/iscas22_zw7_final_checked.pdf), [FCCM'20](https://www.doc.ic.ac.uk/~wl/papers/20/fccm20zq.pdf), [TVLSI'22](https://ieeexplore.ieee.org/abstract/document/9664799) -->
 
 - Quantum Computing    
-    - Efficient Quantum Circuit & Simulation: [HPCA'25](https://drive.google.com/file/d/1Us3EXgAejEx5yH3qwpmgBFIKwYX7XB9m/view?usp=sharing), [DAC'25](https://arxiv.org/pdf/2503.19894), [TC'23](https://ieeexplore.ieee.org/document/9924609/)
+    - Efficient Quantum Circuit & Simulation: [HPCA'26](https://drive.google.com/file/d/1Us3EXgAejEx5yH3qwpmgBFIKwYX7XB9m/view?usp=sharing), [DAC'25](https://arxiv.org/pdf/2503.19894), [TC'23](https://ieeexplore.ieee.org/document/9924609/)
     - ML-Assisted Qauntum EDA & Coding: [DAC'22](https://dl.acm.org/doi/abs/10.1145/3489517.3530403), [DAC'25](https://os-hxfan.github.io/)
-    
+
 - ML for Hardware System
     - Co-Design for Reconfigurable Accelerator: [MICRO'23](https://arxiv.org/pdf/2310.11096.pdf), [TPDS'22](https://ieeexplore.ieee.org/abstract/document/9720069), [ASP-DAC'22](https://arxiv.org/pdf/2111.12787.pdf)
-
 
 
 Our research has received **Best Paper Nomination** at [ASAP'19](https://asap2019.csl.cornell.edu/program.html), [FPT'18](http://www.fpt18.sakura.ne.jp/program.html).
@@ -32,10 +31,10 @@ ___
 
 ### News!
 
-*2025/11*: Our recent work on algorithm–system co-design for edge test-time scaling has been accepted by [ASPLOS'25](https://arxiv.org/pdf/2509.00195).
+*2025/11*: Our recent work on algorithm–system co-design for edge test-time scaling has been accepted by [ASPLOS'26](https://arxiv.org/pdf/2509.00195).
 - This work proposes FlashTTS, a serving system that makes TTS practical for memory-constrained LLM reasoning.  
 
-*2025/10*: Our recent work on classical quantum simulation has been accepted by [HPCA'25](https://drive.google.com/file/d/1Us3EXgAejEx5yH3qwpmgBFIKwYX7XB9m/view?usp=sharing).
+*2025/10*: Our recent work on classical quantum simulation has been accepted by [HPCA'26](https://drive.google.com/file/d/1Us3EXgAejEx5yH3qwpmgBFIKwYX7XB9m/view?usp=sharing).
 - This work presents full-stack acceleration for Schrödinger-style quantum simulation, co-designing the compiler, custom ISA, and a reconfigurable dataflow architecture.
 
 *2025/09*: Our recent work on memory-efficient acceleration of LLM inference has been accepted by [EMNLP'25](https://arxiv.org/pdf/2405.18628).
