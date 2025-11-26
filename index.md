@@ -6,7 +6,7 @@ order: 1
 
 ### About Me
 
-I am an Assistant Professor (Lecturer) in the Department of Computing at Imperial College London. I am also holding a [visiting position](https://www.cst.cam.ac.uk/people/hf384) at the University of Cambridge. Prior to this, I worked as a Research Scientist at Samsung AI Cambridge and an affiliated postdoctoral researcher at the University of Cambridge.
+I am an Assistant Professor in the Department of Computing at Imperial College London. I am also holding a [visiting position](https://www.cst.cam.ac.uk/people/hf384) at the University of Cambridge. Prior to this, I worked as a Research Scientist at Samsung AI Cambridge and an affiliated postdoctoral researcher at the University of Cambridge.
 My research interests focus on hardware system and machine learning. My current research includes:
 
 - Hardware System for ML
@@ -17,12 +17,14 @@ My research interests focus on hardware system and machine learning. My current 
     - Accelerator/System for Trustworthy AI: [ICLR'24](https://openreview.net/pdf?id=zzqn5G9fjn), [DAC'24](https://os-hxfan.github.io/)
     <!-- - Gragh or Recurrent Neural Network: [ISCAS'22](https://spiral.imperial.ac.uk/bitstream/10044/1/94639/2/iscas22_zw7_final_checked.pdf), [FCCM'20](https://www.doc.ic.ac.uk/~wl/papers/20/fccm20zq.pdf), [TVLSI'22](https://ieeexplore.ieee.org/abstract/document/9664799) -->
 
+- Quantum Computing    
+    - Efficient Quantum Circuit & Simulation: [HPCA'25](https://drive.google.com/file/d/1Us3EXgAejEx5yH3qwpmgBFIKwYX7XB9m/view?usp=sharing), [DAC'25](https://arxiv.org/pdf/2503.19894), [TC'23](https://ieeexplore.ieee.org/document/9924609/)
+    - ML-Assisted Qauntum EDA & Coding: [DAC'22](https://dl.acm.org/doi/abs/10.1145/3489517.3530403), [DAC'25](https://os-hxfan.github.io/)
+    
 - ML for Hardware System
     - Co-Design for Reconfigurable Accelerator: [MICRO'23](https://arxiv.org/pdf/2310.11096.pdf), [TPDS'22](https://ieeexplore.ieee.org/abstract/document/9720069), [ASP-DAC'22](https://arxiv.org/pdf/2111.12787.pdf)
 
-- Quantum Computing    
-    - ML-Assisted Qauntum EDA & Coding: [DAC'22](https://dl.acm.org/doi/abs/10.1145/3489517.3530403), [DAC'25](https://os-hxfan.github.io/)
-    - Efficient Quantum Circuit & Simulation: [HPCA'25](https://drive.google.com/file/d/1Us3EXgAejEx5yH3qwpmgBFIKwYX7XB9m/view?usp=sharing), [DAC'25](https://arxiv.org/pdf/2503.19894), [TC'23](https://ieeexplore.ieee.org/document/9924609/)
+
 
 Our research has received **Best Paper Nomination** at [ASAP'19](https://asap2019.csl.cornell.edu/program.html), [FPT'18](http://www.fpt18.sakura.ne.jp/program.html).
 
