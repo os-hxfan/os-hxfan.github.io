@@ -10,7 +10,8 @@ I am an Assistant Professor (Lecturer) in the Department of Computing at Imperia
 My research interests focus on hardware system and machine learning. My current research includes:
 
 - Hardware System for ML
-    - Attention-based Neural Network: [MICRO'22](https://arxiv.org/abs/2209.09570), [DAC'22](https://dl.acm.org/doi/abs/10.1145/3489517.3530451)
+    - Attention-based NNs, LLM: [ASPLOS'25](https://arxiv.org/pdf/2509.00195), [MICRO'22](https://arxiv.org/abs/2209.09570), [DAC'22](https://dl.acm.org/doi/abs/10.1145/3489517.3530451)
+    - Efficient Agentic AI: [NeurIPS'25](https://arxiv.org/pdf/2505.11730), [ICCV'25](https://arxiv.org/pdf/2503.12649?), [EMNLP'25](https://arxiv.org/pdf/2405.18628)
     - Reconfigurable Hardware: [ISCA'24](https://os-hxfan.github.io/), [ASAP'19](https://ieeexplore.ieee.org/abstract/document/8825127) (Best Paper Nominee), [FPT'18](https://www.doc.ic.ac.uk/~wl/papers/18/fpt18hf.pdf) (Best Paper Nominee).
     - Bayesian Neural Network: [DAC'23](https://arxiv.org/pdf/2308.06849.pdf), [DAC'21](https://ieeexplore.ieee.org/abstract/document/9586137), [TCAD'22](https://ieeexplore.ieee.org/document/9743481/)
     - Accelerator/System for Trustworthy AI: [ICLR'24](https://openreview.net/pdf?id=zzqn5G9fjn), [DAC'24](https://os-hxfan.github.io/)
@@ -21,7 +22,7 @@ My research interests focus on hardware system and machine learning. My current 
 
 - Quantum Computing    
     - ML-Assisted Qauntum EDA & Coding: [DAC'22](https://dl.acm.org/doi/abs/10.1145/3489517.3530403), [DAC'25](https://os-hxfan.github.io/)
-    - Efficient Quantum Circuit & Simulation: [TC'23](https://ieeexplore.ieee.org/document/9924609/), [DAC'25](https://arxiv.org/pdf/2503.19894)
+    - Efficient Quantum Circuit & Simulation: [HPCA'25](https://drive.google.com/file/d/1Us3EXgAejEx5yH3qwpmgBFIKwYX7XB9m/view?usp=sharing), [DAC'25](https://arxiv.org/pdf/2503.19894), [TC'23](https://ieeexplore.ieee.org/document/9924609/)
 
 Our research has received **Best Paper Nomination** at [ASAP'19](https://asap2019.csl.cornell.edu/program.html), [FPT'18](http://www.fpt18.sakura.ne.jp/program.html).
 
@@ -29,7 +30,22 @@ ___
 
 ### News!
 
-*2025/02*: Our recent works on LLM acceleration and quantum computing are accepted by [DAC'25](https://www.dac.com/).
+*2025/11*: Our recent work on algorithm–system co-design for edge test-time scaling has been accepted by [ASPLOS'25](https://arxiv.org/pdf/2509.00195).
+- This work proposes FlashTTS, a serving system that makes TTS practical for memory-constrained LLM reasoning.  
+
+*2025/10*: Our recent work on classical quantum simulation has been accepted by [HPCA'25](https://drive.google.com/file/d/1Us3EXgAejEx5yH3qwpmgBFIKwYX7XB9m/view?usp=sharing).
+- This work presents full-stack acceleration for Schrödinger-style quantum simulation, co-designing the compiler, custom ISA, and a reconfigurable dataflow architecture.
+
+*2025/09*: Our recent work on memory-efficient acceleration of LLM inference has been accepted by [EMNLP'25](https://arxiv.org/pdf/2405.18628).
+- This work proposes a hardware-aware parallel prompt decoding method for memory-efficient acceleration of LLM inference.
+
+*2025/09*: Our recent work on efficient test-time scaling has been accepted by [NeurIPS'25](https://arxiv.org/pdf/2505.11730).
+- This work rethinks agentic reasoning from a system-efficiency perspective, exploring test-time scaling under a fixed compute budget through a novel lens of “verification granularity.”
+
+*2025/06*: Our recent work on scalable multi-LLM/agent merging has been accepted by [ICCV'25](https://arxiv.org/pdf/2503.12649?).
+- This work leverages Frank–Wolfe optimization to address the scalability issues of model merging, showing promising results with 16 unrelated models and 16 related models on 20 CV tasks, while maintaining constant memory overhead.
+
+*2025/02*: Our recent works on LLM acceleration and quantum computing have been accepted by [DAC'25](https://www.dac.com/).
 - Multi-agent quantum coding and Quantum Error Correction, titled "Enhancing LLM-based Quantum Code Generation with Multi-Agent Optimization and Quantum Error Correction".
 - Classical quantum simulation on CPU and GPU platforms, titled "Versatile Cross-platform Compilation Toolchain for Schr\" odinger-style Quantum Circuit Simulation".
 - Optimizing KV management for LLM inference, titled "VEDA: Efficient LLM Generation Through Voting-based KV Cache Eviction and Dataflow-flexible Accelerator"
