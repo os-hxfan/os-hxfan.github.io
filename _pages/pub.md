@@ -5,8 +5,9 @@ author_profile: true
 ---
 
 # Publications
+**This publication list is not regularly updated.**
 
-**Full list of publications can be found in my [google scholar](https://scholar.google.com/citations?user=iBT_uw4AAAAJ&hl=en)**
+**Please refer to the full list of publications in my [google scholar](https://scholar.google.com/citations?user=iBT_uw4AAAAJ&hl=en)**
 
 ___
 

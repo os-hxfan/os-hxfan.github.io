@@ -8,7 +8,7 @@ author_profile: true
 ## 👨‍💼 Industrial Experience 
 
 ###### Samsung AI Center, Cambridge, UK (SAIC)
-*<font size=4>(2021.12 - Present) </font>* 
+*<font size=4>(2021.12 - 2024.11) </font>* 
 
 - Machine Learning Researcher Intern.
 - Focus on accelerating deep neural networks using domain specific architecture.

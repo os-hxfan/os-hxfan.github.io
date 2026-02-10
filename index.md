@@ -31,6 +31,14 @@ ___
 
 ### News!
 
+*2026/01*: Our recent work on algorithm and system co-optimization for 3D Guassian Splatting has been accepted by [MLSys'26](https://mlsys.org/).
+- This work proposes Fast3DGS to accelerate 3D Guassian Splatting, with novel techniques such as adaptive early sorting and GPU-efficient axis-shared rasterization.
+
+*2026/01*: Our recent work on efficient diffusion Language Model (dLLM) has been accepted by [ICLR'26](https://arxiv.org/pdf/2509.26432?).
+- This work proposes AdaBlock-dLLM, a training-free, plug-and-play scheduler that adaptively aligns block boundaries with semantic steps.  
+
+*2025/11*: Invited to serve on the [ISCA 2026 Main/Regular TPC](https://iscaconf.org/isca2026/), welcome to submit! 
+
 *2025/11*: Our recent work on algorithm–system co-design for edge test-time scaling has been accepted by [ASPLOS'26](https://arxiv.org/pdf/2509.00195).
 - This work proposes FlashTTS, a serving system that makes TTS practical for memory-constrained LLM reasoning.  
 
