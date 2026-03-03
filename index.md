@@ -31,6 +31,14 @@ ___
 
 ### News!
 
+*2026/02*: I’m honored to have been selected as a [Microsoft Research Faculty Fellow](https://www.microsoft.com/en-us/research/academic-program/microsoft-research-fellowship/)!
+- The followship is based on our research on algorithm and system co-design for AI reasoning and test-time scaling. Thanks to my great students and collaborators for making this possible.
+
+*2026/02*: I gave a talk at Stanford University, hosted by Prof. Subhasish Mitra
+- Title: "A Cross-Stack Co-Design Pathway for Pushing the Efficiency Frontier of AI".
+
+*2026/01*: Our [ASPLOS'26](https://arxiv.org/pdf/2509.00195) has received three ACM Artifact Badges.
+
 *2026/01*: Our recent work on algorithm and system co-optimization for 3D Guassian Splatting has been accepted by [MLSys'26](https://mlsys.org/).
 - This work proposes Fast3DGS to accelerate 3D Guassian Splatting, with novel techniques such as adaptive early sorting and GPU-efficient axis-shared rasterization.
 
