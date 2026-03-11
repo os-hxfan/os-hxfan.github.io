@@ -38,7 +38,7 @@ ___
 📄 *2026/02*: I gave a talk at Stanford University, hosted by Prof. Subhasish Mitra
 - Title: "A Cross-Stack Co-Design Pathway for Pushing the Efficiency Frontier of AI".
 
-👔 *2026/02*: I will be serving as a Program Chair for [IEEE ASAP 2026](https://2026.asap-conf.org/), welcome to submit!
+👔 *2026/02*: I will be serving as the Program Chair for [IEEE ASAP 2026](https://2026.asap-conf.org/), welcome to [submit](https://asap26.hotcrp.com/u/2/)!
 
 📄 *2026/01*: Our recent work on algorithm and system co-optimization for 3D Guassian Splatting has been accepted by [MLSys'26](https://mlsys.org/).
 - This work proposes Fast3DGS to accelerate 3D Guassian Splatting, with novel techniques such as adaptive early sorting and GPU-efficient axis-shared rasterization.
