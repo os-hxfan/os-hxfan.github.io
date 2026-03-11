@@ -277,7 +277,7 @@ author_profile: true
     <div class="team-name">Guoyu Li</div>
     <div class="team-role">PhD Student <br> (2025 Fall)</div>
     <div class="team-note">
-        <a href="https://scholar.google.com/citations?user=iBT_uw4AAAAJ&hl=en" target="_blank" rel="noopener">
+        <a href="https://os-hxfan.github.io/" target="_blank" rel="noopener">
         <i class="fab fa-fw fa-google"></i>
         </a>
         &nbsp;|&nbsp;
@@ -293,7 +293,7 @@ author_profile: true
     <div class="team-name">Euan Turner</div>
     <div class="team-role">Incoming PhD Student, MEng<br> (2026 Fall)</div>
     <div class="team-note">
-        <a href="https://scholar.google.com/citations?user=iBT_uw4AAAAJ&hl=en" target="_blank" rel="noopener">
+        <a href="https://os-hxfan.github.io/" target="_blank" rel="noopener">
         <i class="fab fa-fw fa-google"></i>
         </a>
         &nbsp;|&nbsp;
@@ -308,7 +308,7 @@ author_profile: true
     <div class="team-name">Charlie Campbell </div>
     <div class="team-role">Incoming PhD Student, MEng <br> (2026 Fall)</div>
     <div class="team-note">
-        <a href="https://scholar.google.com/citations?user=iBT_uw4AAAAJ&hl=en" target="_blank" rel="noopener">
+        <a href="https://os-hxfan.github.io/" target="_blank" rel="noopener">
         <i class="fab fa-fw fa-google"></i>
         </a>
         &nbsp;|&nbsp;
@@ -338,7 +338,7 @@ author_profile: true
     <div class="team-name">Shuang Liang</div>
     <div class="team-role">Research Assistant </div>
     <div class="team-note">
-        <a href="https://scholar.google.com/citations?user=iBT_uw4AAAAJ&hl=en" target="_blank" rel="noopener">
+        <a href="https://os-hxfan.github.io/" target="_blank" rel="noopener">
         <i class="fab fa-fw fa-google"></i>
         </a>
         &nbsp;|&nbsp;
@@ -354,7 +354,7 @@ author_profile: true
     <div class="team-name">Jubo Xu</div>
     <div class="team-role">Incoming PhD Student, RA <br> (2026 Fall) </div>
     <div class="team-note">
-        <a href="https://scholar.google.com/citations?user=iBT_uw4AAAAJ&hl=en" target="_blank" rel="noopener">
+        <a href="https://os-hxfan.github.io/" target="_blank" rel="noopener">
         <i class="fab fa-fw fa-google"></i>
         </a>
         &nbsp;|&nbsp;

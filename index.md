@@ -6,7 +6,7 @@ order: 1
 
 ### About Me
 
-I am an Assistant Professor in the Department of Computing at Imperial College London. I am also holding a [Visiting Fellow](https://www.cst.cam.ac.uk/people/hf384) position at the University of Cambridge. Prior to this, I worked as a Research Scientist at Samsung AI Cambridge and an affiliated postdoctoral researcher at the University of Cambridge.
+I am an Assistant Professor in the Department of Computing at Imperial College London. I am also holding a Visiting Fellow position at the University of Cambridge. Prior to this, I worked as a Research Scientist at Samsung AI Cambridge and an affiliated postdoctoral researcher at the University of Cambridge.
 Current research and team members can be found in [Research & Team]({{ site.baseurl }}/pages/team) page.
 
 <!-- - Hardware System for ML
