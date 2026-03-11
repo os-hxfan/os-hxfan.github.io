@@ -8,6 +8,8 @@ main:
     url: /pages/exp
   - title: "Code Release"
     url: /pages/software
+  - title: "Research & Team"
+    url: /pages/team
     # url: https://github.com/os-hxfan
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
