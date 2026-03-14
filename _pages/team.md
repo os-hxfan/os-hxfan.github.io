@@ -6,6 +6,23 @@ author_profile: true
 ---
 
 <style>
+
+.page__title {
+  font-size: 1.25rem;
+  display: flex;
+  align-items: center;
+  gap: 0.0rem;
+}
+
+.page__title::after {
+  content: "";
+  display: inline-block;
+  width: 160px;
+  height: 36px;
+  background: url("/assets/images/imperial_logo.png") no-repeat center / contain;
+  margin-left: -2rem;
+}
+
 /* ===== research themes ===== */
 .research-themes {
   display: flex;
@@ -15,6 +32,9 @@ author_profile: true
 }
 
 .research-theme-card {
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
   border-radius: 8px;
   border: 1px solid rgba(255, 255, 255, 0.12);
   background: rgba(255, 255, 255, 0.03);
@@ -32,7 +52,37 @@ author_profile: true
 }
 
 .research-theme-content {
+  flex: 1;
+  min-width: 0;
   padding: 0.4rem 0.75rem;
+}
+
+.research-theme-figure {
+  flex-shrink: 0;
+  width: 235px;
+  position: relative;
+  overflow: hidden;
+  background: rgba(255, 255, 255, 0.08);
+  margin: 0;
+}
+
+.research-theme-figure img {
+  width: 100%;
+  height: 100%;
+  min-height: 90px;
+  object-fit: contain;
+  display: block;
+}
+
+@media (max-width: 640px) {
+  .research-theme-card {
+    flex-direction: column;
+  }
+
+  .research-theme-figure {
+    width: 100%;
+    height: 140px;
+  }
 }
 
 .research-theme-title {
@@ -137,8 +187,12 @@ author_profile: true
 }
 </style>
 
-## Research Themes
 
+<p style="text-align:center; margin: 0 0 0.5rem -3.5rem;">
+  <img src="/assets/images/imperial_building.png" alt="Imperial College London" style="max-width: 520px; width: 100%; border-radius: 10px; box-shadow: 0 8px 24px rgba(0,0,0,0.35);">
+</p>
+
+## Research Themes
 <div class="research-themes">
   <!-- Row 1: Efficient Agent -->
   <div class="research-theme-card" data-topic="efficient-agent">
@@ -159,6 +213,9 @@ author_profile: true
         </li>
       </ul>
     </div>
+    <figure class="research-theme-figure">
+      <img src="/assets/images/themes/theme-1.png" alt="Efficient and Edge Agent">
+    </figure>
   </div>
 
   <!-- Row 2: Domain-Specific Accelerators -->
@@ -206,6 +263,9 @@ author_profile: true
         </li>
       </ul>
     </div>
+    <figure class="research-theme-figure">
+      <img src="/assets/images/themes/theme-3.png" alt="Quantum Computing">
+    </figure>
   </div>
 </div>
 
