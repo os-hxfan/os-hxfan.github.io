@@ -121,12 +121,6 @@ author_profile: true
   }
 }
 
-@media (max-width: 600px) {
-  .team-grid {
-    grid-template-columns: 1fr;
-  }
-}
-
 .team-card {
   background: rgba(255, 255, 255, 0.03);
   border: 1px solid rgba(255, 255, 255, 0.12);
@@ -188,7 +182,7 @@ author_profile: true
 </style>
 
 
-<p style="text-align:center; margin: 0 0 0.5rem -3.5rem;">
+<p style="text-align:center; margin: 0 0 0.5rem -0.5rem;">
   <img src="/assets/images/imperial_building.png" alt="Imperial College London" style="max-width: 520px; width: 100%; border-radius: 10px; box-shadow: 0 8px 24px rgba(0,0,0,0.35);">
 </p>
 
