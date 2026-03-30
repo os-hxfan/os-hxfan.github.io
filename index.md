@@ -31,6 +31,12 @@ ___
 ### News!
 
 <!-- **1. Paper** 📄 · **2. Funding** 💰 · **3. Serving** 👔 · **4. Honor** 🏆 -->
+📄 *2026/04*: Our recent work on algorithm-hardware co-design and reconfigurable computing has been accepted at leading architecture and  venues.
+- Our work on algorithm and hardware co-design for quantum error correction (QEC) has been accepted by [ISCA’26](https://iscaconf.org/isca2026/).
+- Our work on domain-specific accelerators for real-time rendering has been accepted by [ISCA’26](https://iscaconf.org/isca2026/), collaborating with Samsung AI, ARM and CaMLSys.
+- Our work on design automation/framework of FPGA-based network switches for custom protocol has been accepted by [FCCM’26](https://www.fccm.org/accepted-paper-list-2026/), collaborating with MIT CSAIL.
+
+💰 *2026/03*: Secured one PhD studentship from Imperial’s [School of Convergence Science](https://www.imperial.ac.uk/school-of-convergence-science/phd-opportunities/), in collaboration with the Department of Physics, to explore AI for Science.
 
 🏆 *2026/03*: I’m honored to have been selected as a [Microsoft Research Faculty Fellow](https://www.microsoft.com/en-us/research/academic-program/microsoft-research-fellowship/)!
 - The followship is based on our research on algorithm and system co-design for AI reasoning and test-time scaling. Thanks to my great students and collaborators for making this possible.
