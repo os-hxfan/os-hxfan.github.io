@@ -81,69 +81,69 @@ ___
 📄 *2024/10*: One paper on data selection and language model is accepted by [NeurIPS'24](https://os-hxfan.github.io/)! 
 
 <details>
-<summary><strong>Older news (before 2024/10)</strong></summary>
+  <summary><strong>Older news (before 2024/10)</strong></summary>
 
-👔 *2024/06*: Hongxiang is invited to serve as session chair for [DAC 2024](https://www.dac.com/).
+  <p>👔 <em>2024/06</em>: Hongxiang is invited to serve as session chair for <a href="https://www.dac.com/">DAC 2024</a>.</p>
 
-📄 *2024/03*: One paper on edge reconfigurable parallel hardware is accepted by [ISCA'24](https://os-hxfan.github.io/)!
+  <p>📄 <em>2024/03</em>: One paper on edge reconfigurable parallel hardware is accepted by <a href="https://os-hxfan.github.io/">ISCA'24</a>!</p>
 
-📄 *2024/02*: One paper on hardware acceleration of Trustworthy AI is accepted by [DAC'24](https://os-hxfan.github.io/)!
+  <p>📄 <em>2024/02</em>: One paper on hardware acceleration of Trustworthy AI is accepted by <a href="https://os-hxfan.github.io/">DAC'24</a>!</p>
 
-📄 *2024/01*: One paper on language model and AI privacy is accepted by [ICLR'24](https://openreview.net/pdf?id=zzqn5G9fjn)!
+  <p>📄 <em>2024/01</em>: One paper on language model and AI privacy is accepted by <a href="https://openreview.net/pdf?id=zzqn5G9fjn">ICLR'24</a>!</p>
 
-👔 *2023/11*: Hongxiang is invited to serve on the [DAC 2024 TPC](https://www.dac.com/), welcome to submit!
+  <p>👔 <em>2023/11</em>: Hongxiang is invited to serve on the <a href="https://www.dac.com/">DAC 2024 TPC</a>, welcome to submit!</p>
 
-📄 *2023/09*: Four ACM reproducibility badges are awarded to our MICRO'23 paper (artifacts available, reusable, functional and reproducible)! The code is available [here](https://github.com/SamsungLabs/Sparse-Multi-DNN-Scheduling).
+  <p>📄 <em>2023/09</em>: Four ACM reproducibility badges are awarded to our MICRO'23 paper (artifacts available, reusable, functional and reproducible)! The code is available <a href="https://github.com/SamsungLabs/Sparse-Multi-DNN-Scheduling">here</a>.</p>
 
-📄 *2023/08*: Our preprint for the DAC'23 paper is now available on ArXiv at the [link](https://arxiv.org/pdf/2308.06849.pdf)! Try our open-sourced [code](https://github.com/os-hxfan/BayesNN_FPGA) if you are interested in accelerating robust deep learning on FPGA! You can also try our other projects by checking out the code release available at this [link](https://os-hxfan.github.io/pages/software).
+  <p>📄 <em>2023/08</em>: Our preprint for the DAC'23 paper is now available on ArXiv at the <a href="https://arxiv.org/pdf/2308.06849.pdf">link</a>! Try our open-sourced <a href="https://github.com/os-hxfan/BayesNN_FPGA">code</a> if you are interested in accelerating robust deep learning on FPGA! You can also try our other projects by checking out the code release available at this <a href="https://os-hxfan.github.io/pages/software">link</a>.</p>
 
-📄 *2023/07*: One paper titled "[Sparse-DySta: Sparsity-Aware Dynamic and Static Scheduling for Sparse Multi-DNN Workloads]()" is accepted by MICRO'23!
+  <p>📄 <em>2023/07</em>: One paper titled "Sparse-DySta: Sparsity-Aware Dynamic and Static Scheduling for Sparse Multi-DNN Workloads" is accepted by MICRO'23!</p>
 
-👔 *2023/06*: Invited to serve on the [FPT 2023 TPC](https://fpt2023.org/), welcome to submit! 
+  <p>👔 <em>2023/06</em>: Invited to serve on the <a href="https://fpt2023.org/">FPT 2023 TPC</a>, welcome to submit!</p>
 
-📄 *2023/02*: One paper is accepted by DAC'23! See you in San Francisco this July.
+  <p>📄 <em>2023/02</em>: One paper is accepted by DAC'23! See you in San Francisco this July.</p>
 
-📄 *2022/12*: One paper titled "[Design of Fully Spectral CNNs for Efficient FPGA-Based Acceleration](https://ieeexplore.ieee.org/document/9969527)" is accepted by TNNLS!
+  <p>📄 <em>2022/12</em>: One paper titled "<a href="https://ieeexplore.ieee.org/document/9969527">Design of Fully Spectral CNNs for Efficient FPGA-Based Acceleration</a>" is accepted by TNNLS!</p>
 
-👔 *2022/11*: Hongxiang is invited to serve on the [DAC 2023 TPC](https://www.dac.com/), welcome to submit!
+  <p>👔 <em>2022/11</em>: Hongxiang is invited to serve on the <a href="https://www.dac.com/">DAC 2023 TPC</a>, welcome to submit!</p>
 
-📄 *2022/10*: One paper titled "[Design Space Exploration for Efficient Quantum Most-Significant Digit-First Arithmetic](https://ieeexplore.ieee.org/document/9924609/)" is accepted by TC!
+  <p>📄 <em>2022/10</em>: One paper titled "<a href="https://ieeexplore.ieee.org/document/9924609/">Design Space Exploration for Efficient Quantum Most-Significant Digit-First Arithmetic</a>" is accepted by TC!</p>
 
-📄 *2022/08*: Three ACM reproducibility badges are awarded to our [MICRO'22](https://arxiv.org/abs/2209.09570) paper (artifacts availability, functionality and reproducibility)! The code is available [here](https://github.com/SamsungLabs/Butterfly_Acc).
+  <p>📄 <em>2022/08</em>: Three ACM reproducibility badges are awarded to our <a href="https://arxiv.org/abs/2209.09570">MICRO'22</a> paper (artifacts availability, functionality and reproducibility)! The code is available <a href="https://github.com/SamsungLabs/Butterfly_Acc">here</a>.</p>
 
-📄 *2022/07*: One paper titled "[Adaptable Butterfly Accelerator for Attention-based NNs via Hardware and Algorithm Co-design]()" is accepted by MICRO'22!
+  <p>📄 <em>2022/07</em>: One paper titled "Adaptable Butterfly Accelerator for Attention-based NNs via Hardware and Algorithm Co-design" is accepted by MICRO'22!</p>
 
-👔 *2022/05*: Hongxiang is invited to serve on the [FPT 2022 TPC](https://fpt22.hkust.edu.hk/), welcome to submit!   
+  <p>👔 <em>2022/05</em>: Hongxiang is invited to serve on the <a href="https://fpt22.hkust.edu.hk/">FPT 2022 TPC</a>, welcome to submit!</p>
 
-📄 *2022/05*: One paper titled "[Remarn: A Reconfigurable Multi-threaded Multi-core Accelerator for Recurrent Neural Networks]()" is accepted by TRETS.
+  <p>📄 <em>2022/05</em>: One paper titled "Remarn: A Reconfigurable Multi-threaded Multi-core Accelerator for Recurrent Neural Networks" is accepted by TRETS.</p>
 
-📄 *2022/02*: Two papers are accepted by DAC'22: 
+  <p>📄 <em>2022/02</em>: Two papers are accepted by DAC'22:</p>
+  <ul>
+    <li><font size="3">“Optimizing Quantum Circuit Placement via Machine Learning”, Hongxiang Fan et al.</font></li>
+    <li><font size="3">"Fast Uncertainty Estimation by Accelerating Bayesian Transformers", Hongxiang Fan et al.</font></li>
+  </ul>
 
-- <font size=3> “Optimizing Quantum Circuit Placement via Machine Learning”, Hongxiang Fan et al.</font>
-- <font size=3> "Fast Uncertainty Estimation by Accelerating Bayesian Transformers", Hongxiang Fan et al.</font> 
+  <p>📄 <em>2022/02</em>: One paper titled "FPGA-based Acceleration for Bayesian Convolutional Neural Networks" is accepted by TCAD.</p>
 
-📄 *2022/02*: One paper titled "[FPGA-based Acceleration for Bayesian Convolutional Neural Networks]()" is accepted by TCAD.
+  <p>📄 <em>2022/01</em>: One paper titled "Accelerating Bayesian Neural Networks via Algorithmic and Hardware Optimizations" is accepted by TPDS.</p>
 
-📄 *2022/01*: One paper titled "[Accelerating Bayesian Neural Networks via Algorithmic and Hardware Optimizations]()" is accepted by TPDS.
+  <p>📄 <em>2022/01</em>: One paper titled "Customizable FPGA-based Accelerator for Binarized Graph Neural Networks" is accepted by ISCAS. This is my first time to supervise a first-year Ph.D. student to publish a conference paper as the corresponding author!</p>
 
-📄 *2022/01*: One paper titled "[Customizable FPGA-based Accelerator for Binarized Graph Neural Networks]()" is accepted by ISCAS. This is my first time to supervise a first-year Ph.D. student to publish a conference paper as the corresponding author!
+  <p>📄 <em>2021/12</em>: One co-author paper related recurrent neural network is accepted by TVLSI.</p>
 
-📄 *2021/12*: One co-author paper related recurrent neural network is accepted by TVLSI.
+  <p>🏆 <em>2021/11</em>: Joining Samsung AI Center, Cambridge as Research Intern. Working with Prof. <a href="http://niclane.org/">Nicholas Lane</a>, Dr. <a href="https://tech.cornell.edu/people/mohamed-abdelfattah/">Mohamed Abdelfattah</a> and Dr. <a href="https://www.thomaschau.uk/">Thomas C P Chau</a>.</p>
 
-🏆 *2021/11*: Joining Samsung AI Center, Cambridge as Research Intern. Working with Prof. [Nicholas Lane](http://niclane.org/), Dr. [Mohamed Abdelfattah](https://tech.cornell.edu/people/mohamed-abdelfattah/) and Dr. [Thomas C P Chau](https://www.thomaschau.uk/).
+  <p>📄 <em>2021/09</em>: One paper titled "<a href="https://ieeexplore.ieee.org/abstract/document/9570135">High-Performance Acceleration of 2-D and 3-D CNNs on FPGAs Using Static Block Floating Point</a>" is accepted by TNNLS.</p>
 
-📄 *2021/09*: One paper titled "[High-Performance Acceleration of 2-D and 3-D CNNs on FPGAs Using Static Block Floating Point](https://ieeexplore.ieee.org/abstract/document/9570135)" is accepted by TNNLS.
+  <p>📄 <em>2021/09</em>: One paper titled "<a href="https://arxiv.org/pdf/2111.12787.pdf">Algorithm and Hardware Co-design for Reconfigurable CNN Accelerator</a>" is accepted by ASP-DAC'22.</p>
 
-📄 *2021/09*: One paper titled "[Algorithm and Hardware Co-design for Reconfigurable CNN Accelerator](https://arxiv.org/pdf/2111.12787.pdf)" is accepted by ASP-DAC'22.
+  <p>................</p>
 
-................
+  <p>🏆 <em>2019/07</em>: Our paper "F-E3D: FPGA-based Acceleration of An Efficient 3D Convolutional Neural Network for Human Action Recognition" receive <strong>Best Paper Nomination</strong> in <a href="https://asap2019.csl.cornell.edu/program.html">ASAP'19</a>.</p>
 
-🏆 *2019/07*: Our paper "F-E3D: FPGA-based Acceleration of An Efficient 3D Convolutional Neural Network for Human Action Recognition" receive **Best Paper Nomination** in [ASAP'19](https://asap2019.csl.cornell.edu/program.html).
+  <p>................</p>
 
-................
+  <p>🏆 <em>2018/12</em>: Our paper "A Real-Time Object Detection Accelerator with Compressed SSDLite on FPGA" receive <strong>Best Paper Nomination</strong> in <a href="http://www.fpt18.sakura.ne.jp/program.html">FPT'18</a>.</p>
 
-🏆 *2018/12*: Our paper "A Real-Time Object Detection Accelerator with Compressed SSDLite on FPGA" receive **Best Paper Nomination** in [FPT'18](http://www.fpt18.sakura.ne.jp/program.html).
-
-................
-
+  <p>................</p>
 </details>
