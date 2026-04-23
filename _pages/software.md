@@ -5,6 +5,10 @@ author_profile: true
 ---
 # Code Release
 
+**This code list is not regularly updated.**
+
+**Please refer to the [github](https://github.com/orgs/ihc-fan-lab/repositories) of our lab**
+
 ## 🦋 [Reconfigurable Butterfly Accelerator for Attention-based Neural Networks (MICRO'22)](https://github.com/SamsungLabs/Butterfly_Acc)
 
 We propose an algorithm and hardware co-design approach to accelerate Attention-based Neural Networks (AttNNs) with Butterfly Sparsity.

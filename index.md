@@ -31,15 +31,16 @@ ___
 ### News!
 
 <!-- **1. Paper** 📄 · **2. Funding** 💰 · **3. Serving** 👔 · **4. Honor** 🏆 -->
-📄 *2026/04*: Our recent work on algorithm-hardware co-design and reconfigurable computing has been accepted at leading architecture and  venues.
+📄 *2026/04*: Our recent work on algorithm-hardware co-design and reconfigurable computing has been accepted at leading architecture and system venues.
 - Our work on algorithm and hardware co-design for quantum error correction (QEC) has been accepted by [ISCA’26](https://iscaconf.org/isca2026/).
 - Our work on domain-specific accelerators for real-time rendering has been accepted by [ISCA’26](https://iscaconf.org/isca2026/), collaborating with Samsung AI, ARM and CaMLSys.
+- One collaborative work on AI accelerators has been accepted by [ISCA’26](https://iscaconf.org/isca2026/).
 - Our work on design automation/framework of FPGA-based network switches for custom protocol has been accepted by [FCCM’26](https://www.fccm.org/accepted-paper-list-2026/), collaborating with MIT CSAIL.
 
 💰 *2026/03*: Secured one PhD studentship from Imperial’s [School of Convergence Science](https://www.imperial.ac.uk/school-of-convergence-science/phd-opportunities/), in collaboration with the Department of Physics, to explore AI for Science.
 
 🏆 *2026/03*: I’m honored to have been selected as a [Microsoft Research Faculty Fellow](https://www.microsoft.com/en-us/research/academic-program/microsoft-research-fellowship/)!
-- The followship is based on our research on algorithm and system co-design for AI reasoning and test-time scaling. Thanks to my great students and collaborators for making this possible.
+- The fellowship is based on our research on algorithm and system co-design for AI reasoning and test-time scaling. Thanks to my great students and collaborators for making this possible.
 
 📄 *2026/02*: I gave a talk at Stanford University, hosted by Prof. Subhasish Mitra
 - Title: "A Cross-Stack Co-Design Pathway for Pushing the Efficiency Frontier of AI".
@@ -71,7 +72,7 @@ ___
 
 📄 *2025/02*: Our recent works on LLM acceleration and quantum computing have been accepted by [DAC'25](https://www.dac.com/).
 - Multi-agent quantum coding and Quantum Error Correction, titled "Enhancing LLM-based Quantum Code Generation with Multi-Agent Optimization and Quantum Error Correction".
-- Classical quantum simulation on CPU and GPU platforms, titled "Versatile Cross-platform Compilation Toolchain for Schr\" odinger-style Quantum Circuit Simulation".
+- Classical quantum simulation on CPU and GPU platforms, titled "Versatile Cross-platform Compilation Toolchain for Schrödinger-style Quantum Circuit Simulation".
 - Optimizing KV management for LLM inference, titled "VEDA: Efficient LLM Generation Through Voting-based KV Cache Eviction and Dataflow-flexible Accelerator"
 
 📄 *2025/01*: Our work on adaptive LLM inference, collaborating with Samsung AI Cambridge, is accepted by [ICLR'24](https://arxiv.org/pdf/2410.13461) with [code](https://github.com/SamsungLabs/PMPD) released! 
