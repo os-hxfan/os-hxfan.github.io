@@ -31,6 +31,10 @@ ___
 ### News!
 
 <!-- **1. Paper** 📄 · **2. Funding** 💰 · **3. Serving** 👔 · **4. Honor** 🏆 -->
+📄 *2026/06*: I gave two invited talk/keynote in [EMDL 2026 @ MobiSys 2026](https://emdl-workshop.github.io/emdl26/) and [VisArch 2026 @ ISCA 2026](https://sai-lab-nyu.github.io/VisArch_ISCA26/) 
+
+💰 *2026/05*: Secured funding from Jane Street to support PhD students working on high-performance computing!
+
 📄 *2026/04*: Our recent work on algorithm-hardware co-design and reconfigurable computing has been accepted at leading architecture and system venues.
 - Our work on algorithm and hardware co-design for quantum error correction (QEC) has been accepted by [ISCA’26](https://iscaconf.org/isca2026/).
 - Our work on domain-specific accelerators for real-time rendering has been accepted by [ISCA’26](https://iscaconf.org/isca2026/), collaborating with Samsung AI, ARM and CaMLSys.
