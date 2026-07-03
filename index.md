@@ -31,7 +31,9 @@ ___
 ### News!
 
 <!-- **1. Paper** 📄 · **2. Funding** 💰 · **3. Serving** 👔 · **4. Honor** 🏆 -->
-📄 *2026/06*: I gave two invited talk/keynote in [EMDL 2026 @ MobiSys 2026](https://emdl-workshop.github.io/emdl26/) and [VisArch 2026 @ ISCA 2026](https://sai-lab-nyu.github.io/VisArch_ISCA26/) 
+👔 *2026/06*: I gave two invited talk/keynote in: 
+- [EMDL 2026 @ MobiSys 2026](https://emdl-workshop.github.io/emdl26/): Workshop on Embedded and Mobile Deep Learning  
+- [VisArch 2026 @ ISCA 2026](https://sai-lab-nyu.github.io/VisArch_ISCA26/): Workshop on Systems and Architectures for Neural Rendering, AR/VR, and Visual Computing. 
 
 💰 *2026/05*: Secured funding from Jane Street to support PhD students working on high-performance computing!
 
