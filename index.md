@@ -31,7 +31,9 @@ ___
 ### News!
 
 <!-- **1. Paper** 📄 · **2. Funding** 💰 · **3. Serving** 👔 · **4. Honor** 🏆 -->
-👔 *2026/06*: I gave two invited talk/keynote in: 
+📄 *2026/07*: Our recent papers on 3D DRAM-stacked accelerator and heterogeneous/distributed system have been accepted MICRO'26.
+
+👔 *2026/06*: Two Invited Talks/Keynotes in: 
 - [EMDL 2026 @ MobiSys 2026](https://emdl-workshop.github.io/emdl26/): Workshop on Embedded and Mobile Deep Learning  
 - [VisArch 2026 @ ISCA 2026](https://sai-lab-nyu.github.io/VisArch_ISCA26/): Workshop on Systems and Architectures for Neural Rendering, AR/VR, and Visual Computing. 
 
