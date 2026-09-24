@@ -31,7 +31,11 @@ ___
 ### News!
 
 <!-- **1. Paper** 📄 · **2. Funding** 💰 · **3. Serving** 👔 · **4. Honor** 🏆 -->
-📄 *2026/07*: Our recent papers on 3D DRAM-stacked accelerator and heterogeneous/distributed system have been accepted MICRO'26.
+💰 Awarded US$50,000 Google Cloud credits through the 2026 Google TPU Research & Education Awards.
+
+📄 *2026/07*: Our recent papers on 3D DRAM-stacked accelerator and heterogeneous/distributed system has been accepted at leading architecture and system venues.
+- As memory capacity/bandwidth and network scaling become increasingly critical in the LLM era, we explore future distributed systems built around 3D-stacked AI accelerators [MICRO’26](https://www.microarch.org/micro59/program/).
+- As disaggregation and co-location emerge as important design choices for LLM systems, we explore FPGA–GPU heterogeneous architectures for speculative reasoning [MICRO’26](https://www.microarch.org/micro59/program/).
 
 👔 *2026/06*: Two Invited Talks/Keynotes in: 
 - [EMDL 2026 @ MobiSys 2026](https://emdl-workshop.github.io/emdl26/): Workshop on Embedded and Mobile Deep Learning  

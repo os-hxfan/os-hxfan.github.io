@@ -219,6 +219,7 @@ author_profile: true
       <ul class="research-theme-list">
         <li>
           <strong>Reconfigurable Accelerators:</strong>
+          <a href="https://www.microarch.org/micro59/program/">MICRO'26</a>,
           <a href="https://ieeexplore.ieee.org/document/10609569">ISCA'24</a>,
           <a href="https://arxiv.org/pdf/2505.11730">MICRO'22</a>,
           <a href="https://dl.acm.org/doi/abs/10.1145/3489517.3530451">DAC'22</a>, 
@@ -342,7 +343,7 @@ author_profile: true
   </div>
 
 
-  <div class="team-card" data-topics="ml-accelerator">
+  <div class="team-card" data-topics="efficient-agent">
     <img class="team-photo" src="/assets/images/team/Euan.jpeg" alt="Member 5">
     <div class="team-name">Euan Turner</div>
     <div class="team-role">Incoming PhD Student, MEng<br> (2026 Fall)</div>
@@ -387,26 +388,26 @@ author_profile: true
     </div>
   </div>
 
-  <div class="team-card" data-topics="quantum-computing">
-    <img class="team-photo" src="/assets/images/team/Shuang_Liang.jpeg" alt="Member 8">
-    <div class="team-name">Shuang Liang</div>
-    <div class="team-role">Research Assistant </div>
-    <div class="team-note">
-        <a href="https://os-hxfan.github.io/" target="_blank" rel="noopener">
-        <i class="fab fa-fw fa-google"></i>
-        </a>
-        &nbsp;|&nbsp;
-        <a href="https://www.linkedin.com/in/shuang-liang-icl/?originalSubdomain=uk" target="_blank" rel="noopener">
-        <i class="fab fa-linkedin"></i> 
-        </a>
-    </div>
-  </div>
-
 
   <div class="team-card" data-topics="quantum-computing">
     <!-- <img class="team-photo" src="/assets/images/team/Jubo_Xu.jpeg" alt="Member 6"> -->
     <div class="team-name">Jubo Xu</div>
     <div class="team-role">Incoming PhD Student, RA <br> (2026 Fall) </div>
+    <div class="team-note">
+        <a href="https://os-hxfan.github.io/" target="_blank" rel="noopener">
+        <i class="fab fa-fw fa-google"></i>
+        </a>
+        &nbsp;|&nbsp;
+        <a href="https://github.com/Jubo-Xu" target="_blank" rel="noopener">
+        <i class="fab fa-linkedin"></i> 
+        </a>
+    </div>
+  </div>
+
+  <div class="team-card" data-topics="ml-accelerator">
+    <!-- <img class="team-photo" src="/assets/images/team/Yuzhou_Chen.jpeg" alt="Member 7"> -->
+    <div class="team-name">Yuzhou Chen</div>
+    <div class="team-role">Incoming PhD Student <br> (2026 Fall) </div>
     <div class="team-note">
         <a href="https://os-hxfan.github.io/" target="_blank" rel="noopener">
         <i class="fab fa-fw fa-google"></i>
