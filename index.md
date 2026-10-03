@@ -31,15 +31,26 @@ ___
 ### News!
 
 <!-- **1. Paper** 📄 · **2. Funding** 💰 · **3. Serving** 👔 · **4. Honor** 🏆 -->
-💰 Awarded US$50,000 Google Cloud credits through the 2026 Google TPU Research & Education Awards.
+
+📄 *2026/09*: Our recent papers on efficient and trustworthy AI have been accepted by leading AI venues.
+- Building on our [prior work](https://dl.acm.org/doi/pdf/10.1145/3779212.3790161?__cf_chl_tk=jLUCbHXRscGrUjJXjewL7mgAiqMUgCfhET58gWyN6E8-1791042335-1.0.1.1-B_Va65Ld6f5m1UdwxTmDhz3V7t6kI2iDN.bCwkQ99I4) on efficient text-based LLM reasoning, we develop an adaptive inference scheme for multimodal reasoning [NeurIPS'26](https://arxiv.org/pdf/2607.10004).
+- We identify “expert explosion,” a phenomenon common in multi-batch LLM inference and diffusion LLMs, and introduce Dynamic Expert Sharing (DES) [NeurIPS'26](https://arxiv.org/pdf/2602.00879). Collaboration with industrial partner (Samsung AI). 
+- We investigate redundancy during inference in multimodal diffusion language models [NeurIPS'26@Workshop](https://7amin.github.io/diffulm-neurips2026/).
+- To support trustworthy and verifiable AI, we introduce Agent-as-a-Verifier, an approach inspired by formal methods [NeurIPS'26@Workshop](https://verify-agents-workshop.github.io/).
+
+💰 🏆 *2026/09*: Awarded US$50,000 Google Cloud credits through the 2026 Google TPU Research Awards.
+
+📄 *2026/08*: Our recent paper on AI-assisted Quantum Computing has been accepted by leading EDA venues.
+- To address frequent silent failures in hybrid quantum programs, we introduce HyQDB, an agent-centric debugging framework, together with a comprehensive benchmark suite [ICCD’26](https://arxiv.org/pdf/2609.30313).
+
 
 📄 *2026/07*: Our recent papers on 3D DRAM-stacked accelerator and heterogeneous/distributed system has been accepted at leading architecture and system venues.
 - As memory capacity/bandwidth and network scaling become increasingly critical in the LLM era, we explore future distributed systems built around 3D-stacked AI accelerators [MICRO’26](https://www.microarch.org/micro59/program/).
 - As disaggregation and co-location emerge as important design choices for LLM systems, we explore FPGA–GPU heterogeneous architectures for speculative reasoning [MICRO’26](https://www.microarch.org/micro59/program/).
 
 👔 *2026/06*: Two Invited Talks/Keynotes in: 
-- [EMDL 2026 @ MobiSys 2026](https://emdl-workshop.github.io/emdl26/): Workshop on Embedded and Mobile Deep Learning  
-- [VisArch 2026 @ ISCA 2026](https://sai-lab-nyu.github.io/VisArch_ISCA26/): Workshop on Systems and Architectures for Neural Rendering, AR/VR, and Visual Computing. 
+- [MobiSys 2026 @ EMDL 2026](https://emdl-workshop.github.io/emdl26/): Workshop on Embedded and Mobile Deep Learning  
+- [ISCA 2026 @ VisArch 2026](https://sai-lab-nyu.github.io/VisArch_ISCA26/): Workshop on Systems and Architectures for Neural Rendering, AR/VR, and Visual Computing. 
 
 💰 *2026/05*: Secured funding from Jane Street to support PhD students working on high-performance computing!
 
